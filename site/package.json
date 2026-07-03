@@ -1,0 +1,17 @@
+{
+  "name": "when-care-is-free",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "observable preview",
+    "build": "observable build",
+    "deploy": "observable deploy"
+  },
+  "dependencies": {
+    "@observablehq/framework": "^1.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

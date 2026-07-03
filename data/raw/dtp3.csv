@@ -1,0 +1,1497 @@
+iso3,country,year,value
+AGO,Angola,1990,24.0
+AGO,Angola,1991,26.0
+AGO,Angola,1992,21.0
+AGO,Angola,1993,30.0
+AGO,Angola,1994,27.0
+AGO,Angola,1995,24.0
+AGO,Angola,1996,28.0
+AGO,Angola,1997,41.0
+AGO,Angola,1998,47.0
+AGO,Angola,1999,21.0
+AGO,Angola,2000,31.0
+AGO,Angola,2001,42.0
+AGO,Angola,2002,47.0
+AGO,Angola,2003,46.0
+AGO,Angola,2004,47.0
+AGO,Angola,2005,47.0
+AGO,Angola,2006,44.0
+AGO,Angola,2007,43.0
+AGO,Angola,2008,45.0
+AGO,Angola,2009,47.0
+AGO,Angola,2010,49.0
+AGO,Angola,2011,50.0
+AGO,Angola,2012,52.0
+AGO,Angola,2013,54.0
+AGO,Angola,2014,55.0
+AGO,Angola,2015,57.0
+AGO,Angola,2016,59.0
+AGO,Angola,2017,58.0
+AGO,Angola,2018,67.0
+AGO,Angola,2019,64.0
+AGO,Angola,2020,59.0
+AGO,Angola,2021,55.0
+AGO,Angola,2022,54.0
+AGO,Angola,2023,66.0
+BDI,Burundi,1990,86.0
+BDI,Burundi,1991,83.0
+BDI,Burundi,1992,80.0
+BDI,Burundi,1993,63.0
+BDI,Burundi,1994,48.0
+BDI,Burundi,1995,73.0
+BDI,Burundi,1996,73.0
+BDI,Burundi,1997,74.0
+BDI,Burundi,1998,65.0
+BDI,Burundi,1999,79.0
+BDI,Burundi,2000,80.0
+BDI,Burundi,2001,81.0
+BDI,Burundi,2002,81.0
+BDI,Burundi,2003,82.0
+BDI,Burundi,2004,83.0
+BDI,Burundi,2005,87.0
+BDI,Burundi,2006,92.0
+BDI,Burundi,2007,99.0
+BDI,Burundi,2008,92.0
+BDI,Burundi,2009,94.0
+BDI,Burundi,2010,96.0
+BDI,Burundi,2011,96.0
+BDI,Burundi,2012,96.0
+BDI,Burundi,2013,96.0
+BDI,Burundi,2014,95.0
+BDI,Burundi,2015,94.0
+BDI,Burundi,2016,94.0
+BDI,Burundi,2017,91.0
+BDI,Burundi,2018,90.0
+BDI,Burundi,2019,93.0
+BDI,Burundi,2020,93.0
+BDI,Burundi,2021,94.0
+BDI,Burundi,2022,91.0
+BDI,Burundi,2023,89.0
+BEN,Benin,1990,74.0
+BEN,Benin,1991,69.0
+BEN,Benin,1992,73.0
+BEN,Benin,1993,75.0
+BEN,Benin,1994,81.0
+BEN,Benin,1995,67.0
+BEN,Benin,1996,66.0
+BEN,Benin,1997,66.0
+BEN,Benin,1998,70.0
+BEN,Benin,1999,74.0
+BEN,Benin,2000,78.0
+BEN,Benin,2001,76.0
+BEN,Benin,2002,75.0
+BEN,Benin,2003,73.0
+BEN,Benin,2004,72.0
+BEN,Benin,2005,70.0
+BEN,Benin,2006,74.0
+BEN,Benin,2007,82.0
+BEN,Benin,2008,75.0
+BEN,Benin,2009,79.0
+BEN,Benin,2010,76.0
+BEN,Benin,2011,75.0
+BEN,Benin,2012,80.0
+BEN,Benin,2013,77.0
+BEN,Benin,2014,74.0
+BEN,Benin,2015,74.0
+BEN,Benin,2016,78.0
+BEN,Benin,2017,76.0
+BEN,Benin,2018,74.0
+BEN,Benin,2019,72.0
+BEN,Benin,2020,70.0
+BEN,Benin,2021,70.0
+BEN,Benin,2022,69.0
+BEN,Benin,2023,69.0
+BFA,Burkina Faso,1990,66.0
+BFA,Burkina Faso,1991,53.0
+BFA,Burkina Faso,1992,39.0
+BFA,Burkina Faso,1993,39.0
+BFA,Burkina Faso,1994,36.0
+BFA,Burkina Faso,1995,34.0
+BFA,Burkina Faso,1996,37.0
+BFA,Burkina Faso,1997,39.0
+BFA,Burkina Faso,1998,15.0
+BFA,Burkina Faso,1999,15.0
+BFA,Burkina Faso,2000,45.0
+BFA,Burkina Faso,2001,62.0
+BFA,Burkina Faso,2002,69.0
+BFA,Burkina Faso,2003,79.0
+BFA,Burkina Faso,2004,79.0
+BFA,Burkina Faso,2005,82.0
+BFA,Burkina Faso,2006,86.0
+BFA,Burkina Faso,2007,89.0
+BFA,Burkina Faso,2008,93.0
+BFA,Burkina Faso,2009,92.0
+BFA,Burkina Faso,2010,91.0
+BFA,Burkina Faso,2011,91.0
+BFA,Burkina Faso,2012,90.0
+BFA,Burkina Faso,2013,88.0
+BFA,Burkina Faso,2014,91.0
+BFA,Burkina Faso,2015,91.0
+BFA,Burkina Faso,2016,91.0
+BFA,Burkina Faso,2017,91.0
+BFA,Burkina Faso,2018,91.0
+BFA,Burkina Faso,2019,91.0
+BFA,Burkina Faso,2020,91.0
+BFA,Burkina Faso,2021,91.0
+BFA,Burkina Faso,2022,91.0
+BFA,Burkina Faso,2023,91.0
+BWA,Botswana,1990,92.0
+BWA,Botswana,1991,93.0
+BWA,Botswana,1992,94.0
+BWA,Botswana,1993,94.0
+BWA,Botswana,1994,94.0
+BWA,Botswana,1995,95.0
+BWA,Botswana,1996,96.0
+BWA,Botswana,1997,96.0
+BWA,Botswana,1998,98.0
+BWA,Botswana,1999,97.0
+BWA,Botswana,2000,97.0
+BWA,Botswana,2001,97.0
+BWA,Botswana,2002,97.0
+BWA,Botswana,2003,96.0
+BWA,Botswana,2004,96.0
+BWA,Botswana,2005,96.0
+BWA,Botswana,2006,96.0
+BWA,Botswana,2007,96.0
+BWA,Botswana,2008,96.0
+BWA,Botswana,2009,96.0
+BWA,Botswana,2010,95.0
+BWA,Botswana,2011,95.0
+BWA,Botswana,2012,95.0
+BWA,Botswana,2013,95.0
+BWA,Botswana,2014,95.0
+BWA,Botswana,2015,95.0
+BWA,Botswana,2016,95.0
+BWA,Botswana,2017,95.0
+BWA,Botswana,2018,95.0
+BWA,Botswana,2019,95.0
+BWA,Botswana,2020,95.0
+BWA,Botswana,2021,95.0
+BWA,Botswana,2022,86.0
+BWA,Botswana,2023,95.0
+CAF,Central African Republic,1990,82.0
+CAF,Central African Republic,1991,64.0
+CAF,Central African Republic,1992,45.0
+CAF,Central African Republic,1993,47.0
+CAF,Central African Republic,1994,48.0
+CAF,Central African Republic,1995,53.0
+CAF,Central African Republic,1996,48.0
+CAF,Central African Republic,1997,43.0
+CAF,Central African Republic,1998,43.0
+CAF,Central African Republic,1999,33.0
+CAF,Central African Republic,2000,37.0
+CAF,Central African Republic,2001,40.0
+CAF,Central African Republic,2002,44.0
+CAF,Central African Republic,2003,47.0
+CAF,Central African Republic,2004,51.0
+CAF,Central African Republic,2005,54.0
+CAF,Central African Republic,2006,51.0
+CAF,Central African Republic,2007,48.0
+CAF,Central African Republic,2008,45.0
+CAF,Central African Republic,2009,42.0
+CAF,Central African Republic,2010,45.0
+CAF,Central African Republic,2011,47.0
+CAF,Central African Republic,2012,47.0
+CAF,Central African Republic,2013,23.0
+CAF,Central African Republic,2014,45.0
+CAF,Central African Republic,2015,43.0
+CAF,Central African Republic,2016,42.0
+CAF,Central African Republic,2017,42.0
+CAF,Central African Republic,2018,40.0
+CAF,Central African Republic,2019,38.0
+CAF,Central African Republic,2020,37.0
+CAF,Central African Republic,2021,35.0
+CAF,Central African Republic,2022,33.0
+CAF,Central African Republic,2023,40.0
+CIV,Cote d'Ivoire,1990,54.0
+CIV,Cote d'Ivoire,1991,39.0
+CIV,Cote d'Ivoire,1992,49.0
+CIV,Cote d'Ivoire,1993,50.0
+CIV,Cote d'Ivoire,1994,50.0
+CIV,Cote d'Ivoire,1995,52.0
+CIV,Cote d'Ivoire,1996,55.0
+CIV,Cote d'Ivoire,1997,58.0
+CIV,Cote d'Ivoire,1998,58.0
+CIV,Cote d'Ivoire,1999,58.0
+CIV,Cote d'Ivoire,2000,65.0
+CIV,Cote d'Ivoire,2001,66.0
+CIV,Cote d'Ivoire,2002,65.0
+CIV,Cote d'Ivoire,2003,62.0
+CIV,Cote d'Ivoire,2004,68.0
+CIV,Cote d'Ivoire,2005,77.0
+CIV,Cote d'Ivoire,2006,77.0
+CIV,Cote d'Ivoire,2007,76.0
+CIV,Cote d'Ivoire,2008,74.0
+CIV,Cote d'Ivoire,2009,81.0
+CIV,Cote d'Ivoire,2010,78.0
+CIV,Cote d'Ivoire,2011,61.0
+CIV,Cote d'Ivoire,2012,82.0
+CIV,Cote d'Ivoire,2013,75.0
+CIV,Cote d'Ivoire,2014,73.0
+CIV,Cote d'Ivoire,2015,79.0
+CIV,Cote d'Ivoire,2016,87.0
+CIV,Cote d'Ivoire,2017,83.0
+CIV,Cote d'Ivoire,2018,83.0
+CIV,Cote d'Ivoire,2019,79.0
+CIV,Cote d'Ivoire,2020,72.0
+CIV,Cote d'Ivoire,2021,73.0
+CIV,Cote d'Ivoire,2022,73.0
+CIV,Cote d'Ivoire,2023,79.0
+CMR,Cameroon,1990,48.0
+CMR,Cameroon,1991,42.0
+CMR,Cameroon,1992,37.0
+CMR,Cameroon,1993,37.0
+CMR,Cameroon,1994,38.0
+CMR,Cameroon,1995,46.0
+CMR,Cameroon,1996,46.0
+CMR,Cameroon,1997,48.0
+CMR,Cameroon,1998,56.0
+CMR,Cameroon,1999,59.0
+CMR,Cameroon,2000,62.0
+CMR,Cameroon,2001,63.0
+CMR,Cameroon,2002,66.0
+CMR,Cameroon,2003,73.0
+CMR,Cameroon,2004,73.0
+CMR,Cameroon,2005,80.0
+CMR,Cameroon,2006,81.0
+CMR,Cameroon,2007,82.0
+CMR,Cameroon,2008,84.0
+CMR,Cameroon,2009,80.0
+CMR,Cameroon,2010,84.0
+CMR,Cameroon,2011,81.0
+CMR,Cameroon,2012,79.0
+CMR,Cameroon,2013,76.0
+CMR,Cameroon,2014,76.0
+CMR,Cameroon,2015,76.0
+CMR,Cameroon,2016,78.0
+CMR,Cameroon,2017,74.0
+CMR,Cameroon,2018,68.0
+CMR,Cameroon,2019,67.0
+CMR,Cameroon,2020,68.0
+CMR,Cameroon,2021,71.0
+CMR,Cameroon,2022,71.0
+CMR,Cameroon,2023,75.0
+COD,"Congo, Dem. Rep.",1990,35.0
+COD,"Congo, Dem. Rep.",1991,16.0
+COD,"Congo, Dem. Rep.",1992,23.0
+COD,"Congo, Dem. Rep.",1993,29.0
+COD,"Congo, Dem. Rep.",1994,26.0
+COD,"Congo, Dem. Rep.",1995,23.0
+COD,"Congo, Dem. Rep.",1996,18.0
+COD,"Congo, Dem. Rep.",1997,18.0
+COD,"Congo, Dem. Rep.",1998,18.0
+COD,"Congo, Dem. Rep.",1999,25.0
+COD,"Congo, Dem. Rep.",2000,30.0
+COD,"Congo, Dem. Rep.",2001,30.0
+COD,"Congo, Dem. Rep.",2002,38.0
+COD,"Congo, Dem. Rep.",2003,42.0
+COD,"Congo, Dem. Rep.",2004,54.0
+COD,"Congo, Dem. Rep.",2005,61.0
+COD,"Congo, Dem. Rep.",2006,62.0
+COD,"Congo, Dem. Rep.",2007,65.0
+COD,"Congo, Dem. Rep.",2008,68.0
+COD,"Congo, Dem. Rep.",2009,71.0
+COD,"Congo, Dem. Rep.",2010,60.0
+COD,"Congo, Dem. Rep.",2011,70.0
+COD,"Congo, Dem. Rep.",2012,71.0
+COD,"Congo, Dem. Rep.",2013,71.0
+COD,"Congo, Dem. Rep.",2014,73.0
+COD,"Congo, Dem. Rep.",2015,70.0
+COD,"Congo, Dem. Rep.",2016,70.0
+COD,"Congo, Dem. Rep.",2017,71.0
+COD,"Congo, Dem. Rep.",2018,71.0
+COD,"Congo, Dem. Rep.",2019,73.0
+COD,"Congo, Dem. Rep.",2020,70.0
+COD,"Congo, Dem. Rep.",2021,65.0
+COD,"Congo, Dem. Rep.",2022,65.0
+COD,"Congo, Dem. Rep.",2023,60.0
+COG,"Congo, Rep.",1990,79.0
+COG,"Congo, Rep.",1991,74.0
+COG,"Congo, Rep.",1992,67.0
+COG,"Congo, Rep.",1993,60.0
+COG,"Congo, Rep.",1994,55.0
+COG,"Congo, Rep.",1995,50.0
+COG,"Congo, Rep.",1996,37.0
+COG,"Congo, Rep.",1997,23.0
+COG,"Congo, Rep.",1998,26.0
+COG,"Congo, Rep.",1999,29.0
+COG,"Congo, Rep.",2000,33.0
+COG,"Congo, Rep.",2001,31.0
+COG,"Congo, Rep.",2002,41.0
+COG,"Congo, Rep.",2003,50.0
+COG,"Congo, Rep.",2004,67.0
+COG,"Congo, Rep.",2005,63.0
+COG,"Congo, Rep.",2006,74.0
+COG,"Congo, Rep.",2007,73.0
+COG,"Congo, Rep.",2008,80.0
+COG,"Congo, Rep.",2009,80.0
+COG,"Congo, Rep.",2010,76.0
+COG,"Congo, Rep.",2011,83.0
+COG,"Congo, Rep.",2012,85.0
+COG,"Congo, Rep.",2013,85.0
+COG,"Congo, Rep.",2014,90.0
+COG,"Congo, Rep.",2015,80.0
+COG,"Congo, Rep.",2016,71.0
+COG,"Congo, Rep.",2017,69.0
+COG,"Congo, Rep.",2018,75.0
+COG,"Congo, Rep.",2019,79.0
+COG,"Congo, Rep.",2020,73.0
+COG,"Congo, Rep.",2021,77.0
+COG,"Congo, Rep.",2022,78.0
+COG,"Congo, Rep.",2023,78.0
+COM,Comoros,1990,94.0
+COM,Comoros,1991,52.0
+COM,Comoros,1992,38.0
+COM,Comoros,1993,70.0
+COM,Comoros,1994,58.0
+COM,Comoros,1995,75.0
+COM,Comoros,1996,60.0
+COM,Comoros,1997,48.0
+COM,Comoros,1998,75.0
+COM,Comoros,1999,73.0
+COM,Comoros,2000,70.0
+COM,Comoros,2001,70.0
+COM,Comoros,2002,89.0
+COM,Comoros,2003,80.0
+COM,Comoros,2004,76.0
+COM,Comoros,2005,68.0
+COM,Comoros,2006,69.0
+COM,Comoros,2007,75.0
+COM,Comoros,2008,81.0
+COM,Comoros,2009,83.0
+COM,Comoros,2010,74.0
+COM,Comoros,2011,83.0
+COM,Comoros,2012,86.0
+COM,Comoros,2013,83.0
+COM,Comoros,2014,80.0
+COM,Comoros,2015,80.0
+COM,Comoros,2016,75.0
+COM,Comoros,2017,79.0
+COM,Comoros,2018,77.0
+COM,Comoros,2019,78.0
+COM,Comoros,2020,74.0
+COM,Comoros,2021,72.0
+COM,Comoros,2022,78.0
+COM,Comoros,2023,75.0
+DJI,Djibouti,1990,85.0
+DJI,Djibouti,1991,53.0
+DJI,Djibouti,1992,41.0
+DJI,Djibouti,1993,41.0
+DJI,Djibouti,1994,41.0
+DJI,Djibouti,1995,41.0
+DJI,Djibouti,1996,41.0
+DJI,Djibouti,1997,32.0
+DJI,Djibouti,1998,23.0
+DJI,Djibouti,1999,23.0
+DJI,Djibouti,2000,46.0
+DJI,Djibouti,2001,53.0
+DJI,Djibouti,2002,62.0
+DJI,Djibouti,2003,68.0
+DJI,Djibouti,2004,64.0
+DJI,Djibouti,2005,71.0
+DJI,Djibouti,2006,72.0
+DJI,Djibouti,2007,88.0
+DJI,Djibouti,2008,89.0
+DJI,Djibouti,2009,89.0
+DJI,Djibouti,2010,88.0
+DJI,Djibouti,2011,87.0
+DJI,Djibouti,2012,81.0
+DJI,Djibouti,2013,82.0
+DJI,Djibouti,2014,78.0
+DJI,Djibouti,2015,84.0
+DJI,Djibouti,2016,68.0
+DJI,Djibouti,2017,76.0
+DJI,Djibouti,2018,84.0
+DJI,Djibouti,2019,85.0
+DJI,Djibouti,2020,70.0
+DJI,Djibouti,2021,59.0
+DJI,Djibouti,2022,59.0
+DJI,Djibouti,2023,72.0
+ERI,Eritrea,1990,
+ERI,Eritrea,1991,
+ERI,Eritrea,1992,
+ERI,Eritrea,1993,32.0
+ERI,Eritrea,1994,49.0
+ERI,Eritrea,1995,58.0
+ERI,Eritrea,1996,66.0
+ERI,Eritrea,1997,75.0
+ERI,Eritrea,1998,86.0
+ERI,Eritrea,1999,93.0
+ERI,Eritrea,2000,81.0
+ERI,Eritrea,2001,86.0
+ERI,Eritrea,2002,90.0
+ERI,Eritrea,2003,93.0
+ERI,Eritrea,2004,98.0
+ERI,Eritrea,2005,96.0
+ERI,Eritrea,2006,94.0
+ERI,Eritrea,2007,95.0
+ERI,Eritrea,2008,95.0
+ERI,Eritrea,2009,95.0
+ERI,Eritrea,2010,95.0
+ERI,Eritrea,2011,94.0
+ERI,Eritrea,2012,94.0
+ERI,Eritrea,2013,94.0
+ERI,Eritrea,2014,94.0
+ERI,Eritrea,2015,95.0
+ERI,Eritrea,2016,95.0
+ERI,Eritrea,2017,95.0
+ERI,Eritrea,2018,95.0
+ERI,Eritrea,2019,95.0
+ERI,Eritrea,2020,95.0
+ERI,Eritrea,2021,95.0
+ERI,Eritrea,2022,95.0
+ERI,Eritrea,2023,95.0
+ETH,Ethiopia,1990,49.0
+ETH,Ethiopia,1991,21.0
+ETH,Ethiopia,1992,13.0
+ETH,Ethiopia,1993,28.0
+ETH,Ethiopia,1994,57.0
+ETH,Ethiopia,1995,57.0
+ETH,Ethiopia,1996,55.0
+ETH,Ethiopia,1997,55.0
+ETH,Ethiopia,1998,42.0
+ETH,Ethiopia,1999,28.0
+ETH,Ethiopia,2000,30.0
+ETH,Ethiopia,2001,32.0
+ETH,Ethiopia,2002,35.0
+ETH,Ethiopia,2003,37.0
+ETH,Ethiopia,2004,39.0
+ETH,Ethiopia,2005,43.0
+ETH,Ethiopia,2006,46.0
+ETH,Ethiopia,2007,50.0
+ETH,Ethiopia,2008,54.0
+ETH,Ethiopia,2009,58.0
+ETH,Ethiopia,2010,61.0
+ETH,Ethiopia,2011,65.0
+ETH,Ethiopia,2012,61.0
+ETH,Ethiopia,2013,59.0
+ETH,Ethiopia,2014,61.0
+ETH,Ethiopia,2015,62.0
+ETH,Ethiopia,2016,64.0
+ETH,Ethiopia,2017,65.0
+ETH,Ethiopia,2018,62.0
+ETH,Ethiopia,2019,61.0
+ETH,Ethiopia,2020,62.0
+ETH,Ethiopia,2021,63.0
+ETH,Ethiopia,2022,63.0
+ETH,Ethiopia,2023,70.0
+GAB,Gabon,1990,78.0
+GAB,Gabon,1991,72.0
+GAB,Gabon,1992,66.0
+GAB,Gabon,1993,67.0
+GAB,Gabon,1994,69.0
+GAB,Gabon,1995,70.0
+GAB,Gabon,1996,62.0
+GAB,Gabon,1997,54.0
+GAB,Gabon,1998,50.0
+GAB,Gabon,1999,45.0
+GAB,Gabon,2000,45.0
+GAB,Gabon,2001,45.0
+GAB,Gabon,2002,45.0
+GAB,Gabon,2003,45.0
+GAB,Gabon,2004,45.0
+GAB,Gabon,2005,45.0
+GAB,Gabon,2006,45.0
+GAB,Gabon,2007,81.0
+GAB,Gabon,2008,82.0
+GAB,Gabon,2009,76.0
+GAB,Gabon,2010,67.0
+GAB,Gabon,2011,75.0
+GAB,Gabon,2012,82.0
+GAB,Gabon,2013,79.0
+GAB,Gabon,2014,70.0
+GAB,Gabon,2015,80.0
+GAB,Gabon,2016,75.0
+GAB,Gabon,2017,75.0
+GAB,Gabon,2018,70.0
+GAB,Gabon,2019,70.0
+GAB,Gabon,2020,63.0
+GAB,Gabon,2021,75.0
+GAB,Gabon,2022,60.0
+GAB,Gabon,2023,70.0
+GHA,Ghana,1990,58.0
+GHA,Ghana,1991,60.0
+GHA,Ghana,1992,62.0
+GHA,Ghana,1993,66.0
+GHA,Ghana,1994,70.0
+GHA,Ghana,1995,70.0
+GHA,Ghana,1996,71.0
+GHA,Ghana,1997,71.0
+GHA,Ghana,1998,76.0
+GHA,Ghana,1999,79.0
+GHA,Ghana,2000,88.0
+GHA,Ghana,2001,79.0
+GHA,Ghana,2002,78.0
+GHA,Ghana,2003,80.0
+GHA,Ghana,2004,80.0
+GHA,Ghana,2005,84.0
+GHA,Ghana,2006,84.0
+GHA,Ghana,2007,94.0
+GHA,Ghana,2008,93.0
+GHA,Ghana,2009,94.0
+GHA,Ghana,2010,94.0
+GHA,Ghana,2011,91.0
+GHA,Ghana,2012,92.0
+GHA,Ghana,2013,90.0
+GHA,Ghana,2014,98.0
+GHA,Ghana,2015,89.0
+GHA,Ghana,2016,93.0
+GHA,Ghana,2017,99.0
+GHA,Ghana,2018,97.0
+GHA,Ghana,2019,97.0
+GHA,Ghana,2020,94.0
+GHA,Ghana,2021,98.0
+GHA,Ghana,2022,99.0
+GHA,Ghana,2023,95.0
+GIN,Guinea,1990,17.0
+GIN,Guinea,1991,36.0
+GIN,Guinea,1992,52.0
+GIN,Guinea,1993,53.0
+GIN,Guinea,1994,53.0
+GIN,Guinea,1995,54.0
+GIN,Guinea,1996,48.0
+GIN,Guinea,1997,47.0
+GIN,Guinea,1998,56.0
+GIN,Guinea,1999,43.0
+GIN,Guinea,2000,46.0
+GIN,Guinea,2001,50.0
+GIN,Guinea,2002,53.0
+GIN,Guinea,2003,57.0
+GIN,Guinea,2004,60.0
+GIN,Guinea,2005,59.0
+GIN,Guinea,2006,57.0
+GIN,Guinea,2007,63.0
+GIN,Guinea,2008,60.0
+GIN,Guinea,2009,57.0
+GIN,Guinea,2010,64.0
+GIN,Guinea,2011,63.0
+GIN,Guinea,2012,59.0
+GIN,Guinea,2013,56.0
+GIN,Guinea,2014,52.0
+GIN,Guinea,2015,48.0
+GIN,Guinea,2016,47.0
+GIN,Guinea,2017,49.0
+GIN,Guinea,2018,51.0
+GIN,Guinea,2019,53.0
+GIN,Guinea,2020,54.0
+GIN,Guinea,2021,56.0
+GIN,Guinea,2022,58.0
+GIN,Guinea,2023,60.0
+GMB,"Gambia, The",1990,92.0
+GMB,"Gambia, The",1991,85.0
+GMB,"Gambia, The",1992,85.0
+GMB,"Gambia, The",1993,90.0
+GMB,"Gambia, The",1994,93.0
+GMB,"Gambia, The",1995,96.0
+GMB,"Gambia, The",1996,96.0
+GMB,"Gambia, The",1997,96.0
+GMB,"Gambia, The",1998,97.0
+GMB,"Gambia, The",1999,75.0
+GMB,"Gambia, The",2000,80.0
+GMB,"Gambia, The",2001,87.0
+GMB,"Gambia, The",2002,87.0
+GMB,"Gambia, The",2003,87.0
+GMB,"Gambia, The",2004,87.0
+GMB,"Gambia, The",2005,95.0
+GMB,"Gambia, The",2006,95.0
+GMB,"Gambia, The",2007,95.0
+GMB,"Gambia, The",2008,96.0
+GMB,"Gambia, The",2009,98.0
+GMB,"Gambia, The",2010,97.0
+GMB,"Gambia, The",2011,96.0
+GMB,"Gambia, The",2012,98.0
+GMB,"Gambia, The",2013,97.0
+GMB,"Gambia, The",2014,96.0
+GMB,"Gambia, The",2015,97.0
+GMB,"Gambia, The",2016,95.0
+GMB,"Gambia, The",2017,92.0
+GMB,"Gambia, The",2018,93.0
+GMB,"Gambia, The",2019,88.0
+GMB,"Gambia, The",2020,85.0
+GMB,"Gambia, The",2021,82.0
+GMB,"Gambia, The",2022,79.0
+GMB,"Gambia, The",2023,84.0
+GNB,Guinea-Bissau,1990,61.0
+GNB,Guinea-Bissau,1991,63.0
+GNB,Guinea-Bissau,1992,67.0
+GNB,Guinea-Bissau,1993,63.0
+GNB,Guinea-Bissau,1994,74.0
+GNB,Guinea-Bissau,1995,45.0
+GNB,Guinea-Bissau,1996,53.0
+GNB,Guinea-Bissau,1997,63.0
+GNB,Guinea-Bissau,1998,54.0
+GNB,Guinea-Bissau,1999,45.0
+GNB,Guinea-Bissau,2000,49.0
+GNB,Guinea-Bissau,2001,53.0
+GNB,Guinea-Bissau,2002,57.0
+GNB,Guinea-Bissau,2003,60.0
+GNB,Guinea-Bissau,2004,64.0
+GNB,Guinea-Bissau,2005,68.0
+GNB,Guinea-Bissau,2006,71.0
+GNB,Guinea-Bissau,2007,74.0
+GNB,Guinea-Bissau,2008,77.0
+GNB,Guinea-Bissau,2009,80.0
+GNB,Guinea-Bissau,2010,83.0
+GNB,Guinea-Bissau,2011,86.0
+GNB,Guinea-Bissau,2012,87.0
+GNB,Guinea-Bissau,2013,87.0
+GNB,Guinea-Bissau,2014,86.0
+GNB,Guinea-Bissau,2015,86.0
+GNB,Guinea-Bissau,2016,85.0
+GNB,Guinea-Bissau,2017,79.0
+GNB,Guinea-Bissau,2018,82.0
+GNB,Guinea-Bissau,2019,78.0
+GNB,Guinea-Bissau,2020,74.0
+GNB,Guinea-Bissau,2021,67.0
+GNB,Guinea-Bissau,2022,74.0
+GNB,Guinea-Bissau,2023,74.0
+GNQ,Equatorial Guinea,1990,77.0
+GNQ,Equatorial Guinea,1991,77.0
+GNQ,Equatorial Guinea,1992,76.0
+GNQ,Equatorial Guinea,1993,76.0
+GNQ,Equatorial Guinea,1994,77.0
+GNQ,Equatorial Guinea,1995,79.0
+GNQ,Equatorial Guinea,1996,80.0
+GNQ,Equatorial Guinea,1997,81.0
+GNQ,Equatorial Guinea,1998,81.0
+GNQ,Equatorial Guinea,1999,33.0
+GNQ,Equatorial Guinea,2000,35.0
+GNQ,Equatorial Guinea,2001,37.0
+GNQ,Equatorial Guinea,2002,39.0
+GNQ,Equatorial Guinea,2003,41.0
+GNQ,Equatorial Guinea,2004,43.0
+GNQ,Equatorial Guinea,2005,44.0
+GNQ,Equatorial Guinea,2006,46.0
+GNQ,Equatorial Guinea,2007,48.0
+GNQ,Equatorial Guinea,2008,50.0
+GNQ,Equatorial Guinea,2009,52.0
+GNQ,Equatorial Guinea,2010,54.0
+GNQ,Equatorial Guinea,2011,54.0
+GNQ,Equatorial Guinea,2012,54.0
+GNQ,Equatorial Guinea,2013,53.0
+GNQ,Equatorial Guinea,2014,53.0
+GNQ,Equatorial Guinea,2015,40.0
+GNQ,Equatorial Guinea,2016,53.0
+GNQ,Equatorial Guinea,2017,56.0
+GNQ,Equatorial Guinea,2018,59.0
+GNQ,Equatorial Guinea,2019,62.0
+GNQ,Equatorial Guinea,2020,64.0
+GNQ,Equatorial Guinea,2021,67.0
+GNQ,Equatorial Guinea,2022,70.0
+GNQ,Equatorial Guinea,2023,74.0
+KEN,Kenya,1990,84.0
+KEN,Kenya,1991,86.0
+KEN,Kenya,1992,87.0
+KEN,Kenya,1993,89.0
+KEN,Kenya,1994,92.0
+KEN,Kenya,1995,94.0
+KEN,Kenya,1996,87.0
+KEN,Kenya,1997,79.0
+KEN,Kenya,1998,81.0
+KEN,Kenya,1999,82.0
+KEN,Kenya,2000,82.0
+KEN,Kenya,2001,80.0
+KEN,Kenya,2002,84.0
+KEN,Kenya,2003,73.0
+KEN,Kenya,2004,73.0
+KEN,Kenya,2005,76.0
+KEN,Kenya,2006,80.0
+KEN,Kenya,2007,81.0
+KEN,Kenya,2008,88.0
+KEN,Kenya,2009,88.0
+KEN,Kenya,2010,90.0
+KEN,Kenya,2011,96.0
+KEN,Kenya,2012,94.0
+KEN,Kenya,2013,87.0
+KEN,Kenya,2014,92.0
+KEN,Kenya,2015,89.0
+KEN,Kenya,2016,88.0
+KEN,Kenya,2017,81.0
+KEN,Kenya,2018,91.0
+KEN,Kenya,2019,93.0
+KEN,Kenya,2020,93.0
+KEN,Kenya,2021,95.0
+KEN,Kenya,2022,94.0
+KEN,Kenya,2023,93.0
+LBR,Liberia,1990,
+LBR,Liberia,1991,
+LBR,Liberia,1992,
+LBR,Liberia,1993,
+LBR,Liberia,1994,
+LBR,Liberia,1995,
+LBR,Liberia,1996,
+LBR,Liberia,1997,
+LBR,Liberia,1998,
+LBR,Liberia,1999,52.0
+LBR,Liberia,2000,48.0
+LBR,Liberia,2001,44.0
+LBR,Liberia,2002,39.0
+LBR,Liberia,2003,35.0
+LBR,Liberia,2004,31.0
+LBR,Liberia,2005,60.0
+LBR,Liberia,2006,60.0
+LBR,Liberia,2007,65.0
+LBR,Liberia,2008,75.0
+LBR,Liberia,2009,81.0
+LBR,Liberia,2010,70.0
+LBR,Liberia,2011,77.0
+LBR,Liberia,2012,80.0
+LBR,Liberia,2013,80.0
+LBR,Liberia,2014,63.0
+LBR,Liberia,2015,65.0
+LBR,Liberia,2016,73.0
+LBR,Liberia,2017,80.0
+LBR,Liberia,2018,81.0
+LBR,Liberia,2019,71.0
+LBR,Liberia,2020,66.0
+LBR,Liberia,2021,67.0
+LBR,Liberia,2022,79.0
+LBR,Liberia,2023,83.0
+LSO,Lesotho,1990,82.0
+LSO,Lesotho,1991,84.0
+LSO,Lesotho,1992,85.0
+LSO,Lesotho,1993,86.0
+LSO,Lesotho,1994,87.0
+LSO,Lesotho,1995,88.0
+LSO,Lesotho,1996,87.0
+LSO,Lesotho,1997,87.0
+LSO,Lesotho,1998,88.0
+LSO,Lesotho,1999,88.0
+LSO,Lesotho,2000,84.0
+LSO,Lesotho,2001,79.0
+LSO,Lesotho,2002,85.0
+LSO,Lesotho,2003,90.0
+LSO,Lesotho,2004,90.0
+LSO,Lesotho,2005,89.0
+LSO,Lesotho,2006,89.0
+LSO,Lesotho,2007,88.0
+LSO,Lesotho,2008,88.0
+LSO,Lesotho,2009,91.0
+LSO,Lesotho,2010,93.0
+LSO,Lesotho,2011,96.0
+LSO,Lesotho,2012,95.0
+LSO,Lesotho,2013,93.0
+LSO,Lesotho,2014,88.0
+LSO,Lesotho,2015,83.0
+LSO,Lesotho,2016,87.0
+LSO,Lesotho,2017,89.0
+LSO,Lesotho,2018,90.0
+LSO,Lesotho,2019,92.0
+LSO,Lesotho,2020,93.0
+LSO,Lesotho,2021,95.0
+LSO,Lesotho,2022,92.0
+LSO,Lesotho,2023,90.0
+MDG,Madagascar,1990,46.0
+MDG,Madagascar,1991,53.0
+MDG,Madagascar,1992,65.0
+MDG,Madagascar,1993,66.0
+MDG,Madagascar,1994,66.0
+MDG,Madagascar,1995,57.0
+MDG,Madagascar,1996,49.0
+MDG,Madagascar,1997,49.0
+MDG,Madagascar,1998,52.0
+MDG,Madagascar,1999,55.0
+MDG,Madagascar,2000,57.0
+MDG,Madagascar,2001,60.0
+MDG,Madagascar,2002,62.0
+MDG,Madagascar,2003,66.0
+MDG,Madagascar,2004,78.0
+MDG,Madagascar,2005,85.0
+MDG,Madagascar,2006,85.0
+MDG,Madagascar,2007,84.0
+MDG,Madagascar,2008,77.0
+MDG,Madagascar,2009,77.0
+MDG,Madagascar,2010,70.0
+MDG,Madagascar,2011,73.0
+MDG,Madagascar,2012,68.0
+MDG,Madagascar,2013,70.0
+MDG,Madagascar,2014,68.0
+MDG,Madagascar,2015,62.0
+MDG,Madagascar,2016,68.0
+MDG,Madagascar,2017,65.0
+MDG,Madagascar,2018,74.0
+MDG,Madagascar,2019,69.0
+MDG,Madagascar,2020,67.0
+MDG,Madagascar,2021,55.0
+MDG,Madagascar,2022,57.0
+MDG,Madagascar,2023,65.0
+MLI,Mali,1990,42.0
+MLI,Mali,1991,34.0
+MLI,Mali,1992,38.0
+MLI,Mali,1993,46.0
+MLI,Mali,1994,39.0
+MLI,Mali,1995,49.0
+MLI,Mali,1996,53.0
+MLI,Mali,1997,52.0
+MLI,Mali,1998,52.0
+MLI,Mali,1999,40.0
+MLI,Mali,2000,43.0
+MLI,Mali,2001,49.0
+MLI,Mali,2002,61.0
+MLI,Mali,2003,63.0
+MLI,Mali,2004,69.0
+MLI,Mali,2005,77.0
+MLI,Mali,2006,78.0
+MLI,Mali,2007,74.0
+MLI,Mali,2008,74.0
+MLI,Mali,2009,73.0
+MLI,Mali,2010,73.0
+MLI,Mali,2011,66.0
+MLI,Mali,2012,65.0
+MLI,Mali,2013,64.0
+MLI,Mali,2014,66.0
+MLI,Mali,2015,70.0
+MLI,Mali,2016,76.0
+MLI,Mali,2017,77.0
+MLI,Mali,2018,76.0
+MLI,Mali,2019,77.0
+MLI,Mali,2020,70.0
+MLI,Mali,2021,77.0
+MLI,Mali,2022,75.0
+MLI,Mali,2023,75.0
+MOZ,Mozambique,1990,46.0
+MOZ,Mozambique,1991,46.0
+MOZ,Mozambique,1992,50.0
+MOZ,Mozambique,1993,49.0
+MOZ,Mozambique,1994,55.0
+MOZ,Mozambique,1995,57.0
+MOZ,Mozambique,1996,60.0
+MOZ,Mozambique,1997,62.0
+MOZ,Mozambique,1998,65.0
+MOZ,Mozambique,1999,68.0
+MOZ,Mozambique,2000,70.0
+MOZ,Mozambique,2001,73.0
+MOZ,Mozambique,2002,76.0
+MOZ,Mozambique,2003,85.0
+MOZ,Mozambique,2004,83.0
+MOZ,Mozambique,2005,80.0
+MOZ,Mozambique,2006,78.0
+MOZ,Mozambique,2007,75.0
+MOZ,Mozambique,2008,75.0
+MOZ,Mozambique,2009,74.0
+MOZ,Mozambique,2010,74.0
+MOZ,Mozambique,2011,77.0
+MOZ,Mozambique,2012,80.0
+MOZ,Mozambique,2013,82.0
+MOZ,Mozambique,2014,85.0
+MOZ,Mozambique,2015,85.0
+MOZ,Mozambique,2016,85.0
+MOZ,Mozambique,2017,85.0
+MOZ,Mozambique,2018,85.0
+MOZ,Mozambique,2019,85.0
+MOZ,Mozambique,2020,71.0
+MOZ,Mozambique,2021,56.0
+MOZ,Mozambique,2022,55.0
+MOZ,Mozambique,2023,70.0
+MRT,Mauritania,1990,33.0
+MRT,Mauritania,1991,29.0
+MRT,Mauritania,1992,39.0
+MRT,Mauritania,1993,44.0
+MRT,Mauritania,1994,50.0
+MRT,Mauritania,1995,55.0
+MRT,Mauritania,1996,50.0
+MRT,Mauritania,1997,28.0
+MRT,Mauritania,1998,16.0
+MRT,Mauritania,1999,53.0
+MRT,Mauritania,2000,51.0
+MRT,Mauritania,2001,75.0
+MRT,Mauritania,2002,89.0
+MRT,Mauritania,2003,76.0
+MRT,Mauritania,2004,70.0
+MRT,Mauritania,2005,71.0
+MRT,Mauritania,2006,68.0
+MRT,Mauritania,2007,75.0
+MRT,Mauritania,2008,74.0
+MRT,Mauritania,2009,64.0
+MRT,Mauritania,2010,64.0
+MRT,Mauritania,2011,75.0
+MRT,Mauritania,2012,80.0
+MRT,Mauritania,2013,80.0
+MRT,Mauritania,2014,81.0
+MRT,Mauritania,2015,73.0
+MRT,Mauritania,2016,74.0
+MRT,Mauritania,2017,76.0
+MRT,Mauritania,2018,77.0
+MRT,Mauritania,2019,80.0
+MRT,Mauritania,2020,81.0
+MRT,Mauritania,2021,77.0
+MRT,Mauritania,2022,85.0
+MRT,Mauritania,2023,90.0
+MWI,Malawi,1990,87.0
+MWI,Malawi,1991,87.0
+MWI,Malawi,1992,87.0
+MWI,Malawi,1993,91.0
+MWI,Malawi,1994,82.0
+MWI,Malawi,1995,89.0
+MWI,Malawi,1996,90.0
+MWI,Malawi,1997,95.0
+MWI,Malawi,1998,96.0
+MWI,Malawi,1999,85.0
+MWI,Malawi,2000,75.0
+MWI,Malawi,2001,90.0
+MWI,Malawi,2002,64.0
+MWI,Malawi,2003,84.0
+MWI,Malawi,2004,89.0
+MWI,Malawi,2005,93.0
+MWI,Malawi,2006,99.0
+MWI,Malawi,2007,87.0
+MWI,Malawi,2008,91.0
+MWI,Malawi,2009,93.0
+MWI,Malawi,2010,93.0
+MWI,Malawi,2011,97.0
+MWI,Malawi,2012,96.0
+MWI,Malawi,2013,89.0
+MWI,Malawi,2014,91.0
+MWI,Malawi,2015,88.0
+MWI,Malawi,2016,84.0
+MWI,Malawi,2017,88.0
+MWI,Malawi,2018,92.0
+MWI,Malawi,2019,95.0
+MWI,Malawi,2020,94.0
+MWI,Malawi,2021,93.0
+MWI,Malawi,2022,86.0
+MWI,Malawi,2023,91.0
+NAM,Namibia,1990,
+NAM,Namibia,1991,69.0
+NAM,Namibia,1992,70.0
+NAM,Namibia,1993,73.0
+NAM,Namibia,1994,79.0
+NAM,Namibia,1995,74.0
+NAM,Namibia,1996,70.0
+NAM,Namibia,1997,66.0
+NAM,Namibia,1998,74.0
+NAM,Namibia,1999,72.0
+NAM,Namibia,2000,79.0
+NAM,Namibia,2001,78.0
+NAM,Namibia,2002,77.0
+NAM,Namibia,2003,79.0
+NAM,Namibia,2004,81.0
+NAM,Namibia,2005,86.0
+NAM,Namibia,2006,86.0
+NAM,Namibia,2007,86.0
+NAM,Namibia,2008,83.0
+NAM,Namibia,2009,83.0
+NAM,Namibia,2010,83.0
+NAM,Namibia,2011,82.0
+NAM,Namibia,2012,84.0
+NAM,Namibia,2013,89.0
+NAM,Namibia,2014,88.0
+NAM,Namibia,2015,92.0
+NAM,Namibia,2016,85.0
+NAM,Namibia,2017,88.0
+NAM,Namibia,2018,89.0
+NAM,Namibia,2019,87.0
+NAM,Namibia,2020,93.0
+NAM,Namibia,2021,94.0
+NAM,Namibia,2022,84.0
+NAM,Namibia,2023,83.0
+NER,Niger,1990,22.0
+NER,Niger,1991,19.0
+NER,Niger,1992,20.0
+NER,Niger,1993,20.0
+NER,Niger,1994,20.0
+NER,Niger,1995,23.0
+NER,Niger,1996,23.0
+NER,Niger,1997,25.0
+NER,Niger,1998,29.0
+NER,Niger,1999,32.0
+NER,Niger,2000,34.0
+NER,Niger,2001,36.0
+NER,Niger,2002,39.0
+NER,Niger,2003,41.0
+NER,Niger,2004,43.0
+NER,Niger,2005,45.0
+NER,Niger,2006,52.0
+NER,Niger,2007,58.0
+NER,Niger,2008,67.0
+NER,Niger,2009,71.0
+NER,Niger,2010,70.0
+NER,Niger,2011,75.0
+NER,Niger,2012,73.0
+NER,Niger,2013,75.0
+NER,Niger,2014,82.0
+NER,Niger,2015,84.0
+NER,Niger,2016,80.0
+NER,Niger,2017,85.0
+NER,Niger,2018,79.0
+NER,Niger,2019,81.0
+NER,Niger,2020,81.0
+NER,Niger,2021,82.0
+NER,Niger,2022,84.0
+NER,Niger,2023,85.0
+NGA,Nigeria,1990,56.0
+NGA,Nigeria,1991,39.0
+NGA,Nigeria,1992,43.0
+NGA,Nigeria,1993,29.0
+NGA,Nigeria,1994,44.0
+NGA,Nigeria,1995,34.0
+NGA,Nigeria,1996,26.0
+NGA,Nigeria,1997,21.0
+NGA,Nigeria,1998,21.0
+NGA,Nigeria,1999,31.0
+NGA,Nigeria,2000,29.0
+NGA,Nigeria,2001,27.0
+NGA,Nigeria,2002,25.0
+NGA,Nigeria,2003,29.0
+NGA,Nigeria,2004,33.0
+NGA,Nigeria,2005,36.0
+NGA,Nigeria,2006,40.0
+NGA,Nigeria,2007,42.0
+NGA,Nigeria,2008,53.0
+NGA,Nigeria,2009,63.0
+NGA,Nigeria,2010,56.0
+NGA,Nigeria,2011,53.0
+NGA,Nigeria,2012,36.0
+NGA,Nigeria,2013,39.0
+NGA,Nigeria,2014,43.0
+NGA,Nigeria,2015,42.0
+NGA,Nigeria,2016,53.0
+NGA,Nigeria,2017,55.0
+NGA,Nigeria,2018,61.0
+NGA,Nigeria,2019,66.0
+NGA,Nigeria,2020,62.0
+NGA,Nigeria,2021,61.0
+NGA,Nigeria,2022,59.0
+NGA,Nigeria,2023,67.0
+RWA,Rwanda,1990,84.0
+RWA,Rwanda,1991,91.0
+RWA,Rwanda,1992,85.0
+RWA,Rwanda,1993,83.0
+RWA,Rwanda,1994,23.0
+RWA,Rwanda,1995,83.0
+RWA,Rwanda,1996,89.0
+RWA,Rwanda,1997,73.0
+RWA,Rwanda,1998,79.0
+RWA,Rwanda,1999,85.0
+RWA,Rwanda,2000,90.0
+RWA,Rwanda,2001,77.0
+RWA,Rwanda,2002,88.0
+RWA,Rwanda,2003,96.0
+RWA,Rwanda,2004,89.0
+RWA,Rwanda,2005,95.0
+RWA,Rwanda,2006,99.0
+RWA,Rwanda,2007,97.0
+RWA,Rwanda,2008,97.0
+RWA,Rwanda,2009,97.0
+RWA,Rwanda,2010,97.0
+RWA,Rwanda,2011,97.0
+RWA,Rwanda,2012,98.0
+RWA,Rwanda,2013,98.0
+RWA,Rwanda,2014,98.0
+RWA,Rwanda,2015,98.0
+RWA,Rwanda,2016,98.0
+RWA,Rwanda,2017,98.0
+RWA,Rwanda,2018,97.0
+RWA,Rwanda,2019,98.0
+RWA,Rwanda,2020,91.0
+RWA,Rwanda,2021,88.0
+RWA,Rwanda,2022,98.0
+RWA,Rwanda,2023,94.0
+SEN,Senegal,1990,51.0
+SEN,Senegal,1991,51.0
+SEN,Senegal,1992,59.0
+SEN,Senegal,1993,58.0
+SEN,Senegal,1994,57.0
+SEN,Senegal,1995,80.0
+SEN,Senegal,1996,70.0
+SEN,Senegal,1997,59.0
+SEN,Senegal,1998,59.0
+SEN,Senegal,1999,60.0
+SEN,Senegal,2000,52.0
+SEN,Senegal,2001,52.0
+SEN,Senegal,2002,60.0
+SEN,Senegal,2003,73.0
+SEN,Senegal,2004,87.0
+SEN,Senegal,2005,84.0
+SEN,Senegal,2006,89.0
+SEN,Senegal,2007,94.0
+SEN,Senegal,2008,88.0
+SEN,Senegal,2009,86.0
+SEN,Senegal,2010,89.0
+SEN,Senegal,2011,92.0
+SEN,Senegal,2012,91.0
+SEN,Senegal,2013,92.0
+SEN,Senegal,2014,89.0
+SEN,Senegal,2015,89.0
+SEN,Senegal,2016,93.0
+SEN,Senegal,2017,93.0
+SEN,Senegal,2018,92.0
+SEN,Senegal,2019,91.0
+SEN,Senegal,2020,83.0
+SEN,Senegal,2021,85.0
+SEN,Senegal,2022,93.0
+SEN,Senegal,2023,92.0
+SLE,Sierra Leone,1990,
+SLE,Sierra Leone,1991,
+SLE,Sierra Leone,1992,
+SLE,Sierra Leone,1993,
+SLE,Sierra Leone,1994,
+SLE,Sierra Leone,1995,
+SLE,Sierra Leone,1996,
+SLE,Sierra Leone,1997,
+SLE,Sierra Leone,1998,
+SLE,Sierra Leone,1999,43.0
+SLE,Sierra Leone,2000,44.0
+SLE,Sierra Leone,2001,38.0
+SLE,Sierra Leone,2002,53.0
+SLE,Sierra Leone,2003,73.0
+SLE,Sierra Leone,2004,65.0
+SLE,Sierra Leone,2005,65.0
+SLE,Sierra Leone,2006,64.0
+SLE,Sierra Leone,2007,64.0
+SLE,Sierra Leone,2008,77.0
+SLE,Sierra Leone,2009,84.0
+SLE,Sierra Leone,2010,86.0
+SLE,Sierra Leone,2011,89.0
+SLE,Sierra Leone,2012,91.0
+SLE,Sierra Leone,2013,92.0
+SLE,Sierra Leone,2014,83.0
+SLE,Sierra Leone,2015,86.0
+SLE,Sierra Leone,2016,84.0
+SLE,Sierra Leone,2017,90.0
+SLE,Sierra Leone,2018,93.0
+SLE,Sierra Leone,2019,95.0
+SLE,Sierra Leone,2020,91.0
+SLE,Sierra Leone,2021,92.0
+SLE,Sierra Leone,2022,91.0
+SLE,Sierra Leone,2023,91.0
+SOM,"Somalia, Fed. Rep.",1990,19.0
+SOM,"Somalia, Fed. Rep.",1991,20.0
+SOM,"Somalia, Fed. Rep.",1992,21.0
+SOM,"Somalia, Fed. Rep.",1993,22.0
+SOM,"Somalia, Fed. Rep.",1994,23.0
+SOM,"Somalia, Fed. Rep.",1995,22.0
+SOM,"Somalia, Fed. Rep.",1996,21.0
+SOM,"Somalia, Fed. Rep.",1997,19.0
+SOM,"Somalia, Fed. Rep.",1998,33.0
+SOM,"Somalia, Fed. Rep.",1999,36.0
+SOM,"Somalia, Fed. Rep.",2000,33.0
+SOM,"Somalia, Fed. Rep.",2001,33.0
+SOM,"Somalia, Fed. Rep.",2002,40.0
+SOM,"Somalia, Fed. Rep.",2003,40.0
+SOM,"Somalia, Fed. Rep.",2004,30.0
+SOM,"Somalia, Fed. Rep.",2005,35.0
+SOM,"Somalia, Fed. Rep.",2006,26.0
+SOM,"Somalia, Fed. Rep.",2007,40.0
+SOM,"Somalia, Fed. Rep.",2008,31.0
+SOM,"Somalia, Fed. Rep.",2009,42.0
+SOM,"Somalia, Fed. Rep.",2010,45.0
+SOM,"Somalia, Fed. Rep.",2011,41.0
+SOM,"Somalia, Fed. Rep.",2012,42.0
+SOM,"Somalia, Fed. Rep.",2013,44.0
+SOM,"Somalia, Fed. Rep.",2014,46.0
+SOM,"Somalia, Fed. Rep.",2015,48.0
+SOM,"Somalia, Fed. Rep.",2016,49.0
+SOM,"Somalia, Fed. Rep.",2017,51.0
+SOM,"Somalia, Fed. Rep.",2018,53.0
+SOM,"Somalia, Fed. Rep.",2019,57.0
+SOM,"Somalia, Fed. Rep.",2020,55.0
+SOM,"Somalia, Fed. Rep.",2021,62.0
+SOM,"Somalia, Fed. Rep.",2022,71.0
+SOM,"Somalia, Fed. Rep.",2023,69.0
+SSD,South Sudan,1990,
+SSD,South Sudan,1991,
+SSD,South Sudan,1992,
+SSD,South Sudan,1993,
+SSD,South Sudan,1994,
+SSD,South Sudan,1995,
+SSD,South Sudan,1996,
+SSD,South Sudan,1997,
+SSD,South Sudan,1998,
+SSD,South Sudan,1999,
+SSD,South Sudan,2000,
+SSD,South Sudan,2001,
+SSD,South Sudan,2002,
+SSD,South Sudan,2003,
+SSD,South Sudan,2004,
+SSD,South Sudan,2005,
+SSD,South Sudan,2006,
+SSD,South Sudan,2007,
+SSD,South Sudan,2008,
+SSD,South Sudan,2009,
+SSD,South Sudan,2010,
+SSD,South Sudan,2011,61.0
+SSD,South Sudan,2012,63.0
+SSD,South Sudan,2013,53.0
+SSD,South Sudan,2014,50.0
+SSD,South Sudan,2015,46.0
+SSD,South Sudan,2016,45.0
+SSD,South Sudan,2017,52.0
+SSD,South Sudan,2018,59.0
+SSD,South Sudan,2019,61.0
+SSD,South Sudan,2020,67.0
+SSD,South Sudan,2021,69.0
+SSD,South Sudan,2022,73.0
+SSD,South Sudan,2023,73.0
+SWZ,Eswatini,1990,89.0
+SWZ,Eswatini,1991,79.0
+SWZ,Eswatini,1992,93.0
+SWZ,Eswatini,1993,89.0
+SWZ,Eswatini,1994,96.0
+SWZ,Eswatini,1995,82.0
+SWZ,Eswatini,1996,82.0
+SWZ,Eswatini,1997,82.0
+SWZ,Eswatini,1998,83.0
+SWZ,Eswatini,1999,83.0
+SWZ,Eswatini,2000,84.0
+SWZ,Eswatini,2001,84.0
+SWZ,Eswatini,2002,85.0
+SWZ,Eswatini,2003,85.0
+SWZ,Eswatini,2004,86.0
+SWZ,Eswatini,2005,86.0
+SWZ,Eswatini,2006,87.0
+SWZ,Eswatini,2007,87.0
+SWZ,Eswatini,2008,88.0
+SWZ,Eswatini,2009,88.0
+SWZ,Eswatini,2010,89.0
+SWZ,Eswatini,2011,91.0
+SWZ,Eswatini,2012,95.0
+SWZ,Eswatini,2013,98.0
+SWZ,Eswatini,2014,98.0
+SWZ,Eswatini,2015,90.0
+SWZ,Eswatini,2016,90.0
+SWZ,Eswatini,2017,90.0
+SWZ,Eswatini,2018,90.0
+SWZ,Eswatini,2019,90.0
+SWZ,Eswatini,2020,83.0
+SWZ,Eswatini,2021,77.0
+SWZ,Eswatini,2022,97.0
+SWZ,Eswatini,2023,85.0
+TCD,Chad,1990,20.0
+TCD,Chad,1991,18.0
+TCD,Chad,1992,10.0
+TCD,Chad,1993,13.0
+TCD,Chad,1994,18.0
+TCD,Chad,1995,18.0
+TCD,Chad,1996,20.0
+TCD,Chad,1997,24.0
+TCD,Chad,1998,37.0
+TCD,Chad,1999,45.0
+TCD,Chad,2000,38.0
+TCD,Chad,2001,26.0
+TCD,Chad,2002,25.0
+TCD,Chad,2003,23.0
+TCD,Chad,2004,22.0
+TCD,Chad,2005,26.0
+TCD,Chad,2006,41.0
+TCD,Chad,2007,29.0
+TCD,Chad,2008,19.0
+TCD,Chad,2009,26.0
+TCD,Chad,2010,40.0
+TCD,Chad,2011,33.0
+TCD,Chad,2012,40.0
+TCD,Chad,2013,39.0
+TCD,Chad,2014,36.0
+TCD,Chad,2015,42.0
+TCD,Chad,2016,41.0
+TCD,Chad,2017,41.0
+TCD,Chad,2018,47.0
+TCD,Chad,2019,53.0
+TCD,Chad,2020,55.0
+TCD,Chad,2021,62.0
+TCD,Chad,2022,66.0
+TCD,Chad,2023,67.0
+TGO,Togo,1990,77.0
+TGO,Togo,1991,73.0
+TGO,Togo,1992,69.0
+TGO,Togo,1993,66.0
+TGO,Togo,1994,62.0
+TGO,Togo,1995,58.0
+TGO,Togo,1996,50.0
+TGO,Togo,1997,42.0
+TGO,Togo,1998,42.0
+TGO,Togo,1999,57.0
+TGO,Togo,2000,64.0
+TGO,Togo,2001,50.0
+TGO,Togo,2002,59.0
+TGO,Togo,2003,72.0
+TGO,Togo,2004,71.0
+TGO,Togo,2005,82.0
+TGO,Togo,2006,84.0
+TGO,Togo,2007,82.0
+TGO,Togo,2008,81.0
+TGO,Togo,2009,78.0
+TGO,Togo,2010,83.0
+TGO,Togo,2011,85.0
+TGO,Togo,2012,84.0
+TGO,Togo,2013,84.0
+TGO,Togo,2014,84.0
+TGO,Togo,2015,82.0
+TGO,Togo,2016,82.0
+TGO,Togo,2017,84.0
+TGO,Togo,2018,82.0
+TGO,Togo,2019,86.0
+TGO,Togo,2020,85.0
+TGO,Togo,2021,87.0
+TGO,Togo,2022,86.0
+TGO,Togo,2023,90.0
+TZA,Tanzania,1990,78.0
+TZA,Tanzania,1991,81.0
+TZA,Tanzania,1992,83.0
+TZA,Tanzania,1993,83.0
+TZA,Tanzania,1994,84.0
+TZA,Tanzania,1995,81.0
+TZA,Tanzania,1996,82.0
+TZA,Tanzania,1997,79.0
+TZA,Tanzania,1998,79.0
+TZA,Tanzania,1999,76.0
+TZA,Tanzania,2000,79.0
+TZA,Tanzania,2001,87.0
+TZA,Tanzania,2002,89.0
+TZA,Tanzania,2003,95.0
+TZA,Tanzania,2004,95.0
+TZA,Tanzania,2005,90.0
+TZA,Tanzania,2006,90.0
+TZA,Tanzania,2007,83.0
+TZA,Tanzania,2008,86.0
+TZA,Tanzania,2009,85.0
+TZA,Tanzania,2010,91.0
+TZA,Tanzania,2011,90.0
+TZA,Tanzania,2012,92.0
+TZA,Tanzania,2013,91.0
+TZA,Tanzania,2014,97.0
+TZA,Tanzania,2015,96.0
+TZA,Tanzania,2016,92.0
+TZA,Tanzania,2017,90.0
+TZA,Tanzania,2018,89.0
+TZA,Tanzania,2019,91.0
+TZA,Tanzania,2020,91.0
+TZA,Tanzania,2021,86.0
+TZA,Tanzania,2022,87.0
+TZA,Tanzania,2023,83.0
+UGA,Uganda,1990,45.0
+UGA,Uganda,1991,49.0
+UGA,Uganda,1992,53.0
+UGA,Uganda,1993,56.0
+UGA,Uganda,1994,60.0
+UGA,Uganda,1995,59.0
+UGA,Uganda,1996,57.0
+UGA,Uganda,1997,56.0
+UGA,Uganda,1998,48.0
+UGA,Uganda,1999,50.0
+UGA,Uganda,2000,52.0
+UGA,Uganda,2001,55.0
+UGA,Uganda,2002,57.0
+UGA,Uganda,2003,59.0
+UGA,Uganda,2004,62.0
+UGA,Uganda,2005,64.0
+UGA,Uganda,2006,64.0
+UGA,Uganda,2007,73.0
+UGA,Uganda,2008,71.0
+UGA,Uganda,2009,79.0
+UGA,Uganda,2010,80.0
+UGA,Uganda,2011,82.0
+UGA,Uganda,2012,83.0
+UGA,Uganda,2013,84.0
+UGA,Uganda,2014,85.0
+UGA,Uganda,2015,89.0
+UGA,Uganda,2016,93.0
+UGA,Uganda,2017,94.0
+UGA,Uganda,2018,93.0
+UGA,Uganda,2019,93.0
+UGA,Uganda,2020,89.0
+UGA,Uganda,2021,91.0
+UGA,Uganda,2022,89.0
+UGA,Uganda,2023,91.0
+ZAF,South Africa,1990,72.0
+ZAF,South Africa,1991,81.0
+ZAF,South Africa,1992,79.0
+ZAF,South Africa,1993,81.0
+ZAF,South Africa,1994,73.0
+ZAF,South Africa,1995,72.0
+ZAF,South Africa,1996,73.0
+ZAF,South Africa,1997,76.0
+ZAF,South Africa,1998,75.0
+ZAF,South Africa,1999,74.0
+ZAF,South Africa,2000,73.0
+ZAF,South Africa,2001,71.0
+ZAF,South Africa,2002,70.0
+ZAF,South Africa,2003,69.0
+ZAF,South Africa,2004,74.0
+ZAF,South Africa,2005,81.0
+ZAF,South Africa,2006,84.0
+ZAF,South Africa,2007,85.0
+ZAF,South Africa,2008,82.0
+ZAF,South Africa,2009,81.0
+ZAF,South Africa,2010,77.0
+ZAF,South Africa,2011,75.0
+ZAF,South Africa,2012,71.0
+ZAF,South Africa,2013,81.0
+ZAF,South Africa,2014,85.0
+ZAF,South Africa,2015,85.0
+ZAF,South Africa,2016,85.0
+ZAF,South Africa,2017,84.0
+ZAF,South Africa,2018,82.0
+ZAF,South Africa,2019,85.0
+ZAF,South Africa,2020,84.0
+ZAF,South Africa,2021,86.0
+ZAF,South Africa,2022,85.0
+ZAF,South Africa,2023,79.0
+ZMB,Zambia,1990,91.0
+ZMB,Zambia,1991,79.0
+ZMB,Zambia,1992,83.0
+ZMB,Zambia,1993,86.0
+ZMB,Zambia,1994,90.0
+ZMB,Zambia,1995,86.0
+ZMB,Zambia,1996,84.0
+ZMB,Zambia,1997,83.0
+ZMB,Zambia,1998,84.0
+ZMB,Zambia,1999,84.0
+ZMB,Zambia,2000,85.0
+ZMB,Zambia,2001,85.0
+ZMB,Zambia,2002,84.0
+ZMB,Zambia,2003,83.0
+ZMB,Zambia,2004,83.0
+ZMB,Zambia,2005,82.0
+ZMB,Zambia,2006,81.0
+ZMB,Zambia,2007,80.0
+ZMB,Zambia,2008,87.0
+ZMB,Zambia,2009,94.0
+ZMB,Zambia,2010,83.0
+ZMB,Zambia,2011,81.0
+ZMB,Zambia,2012,78.0
+ZMB,Zambia,2013,79.0
+ZMB,Zambia,2014,86.0
+ZMB,Zambia,2015,90.0
+ZMB,Zambia,2016,95.0
+ZMB,Zambia,2017,94.0
+ZMB,Zambia,2018,90.0
+ZMB,Zambia,2019,88.0
+ZMB,Zambia,2020,84.0
+ZMB,Zambia,2021,91.0
+ZMB,Zambia,2022,92.0
+ZMB,Zambia,2023,90.0
+ZWE,Zimbabwe,1990,88.0
+ZWE,Zimbabwe,1991,87.0
+ZWE,Zimbabwe,1992,86.0
+ZWE,Zimbabwe,1993,85.0
+ZWE,Zimbabwe,1994,87.0
+ZWE,Zimbabwe,1995,88.0
+ZWE,Zimbabwe,1996,90.0
+ZWE,Zimbabwe,1997,86.0
+ZWE,Zimbabwe,1998,84.0
+ZWE,Zimbabwe,1999,81.0
+ZWE,Zimbabwe,2000,78.0
+ZWE,Zimbabwe,2001,75.0
+ZWE,Zimbabwe,2002,71.0
+ZWE,Zimbabwe,2003,68.0
+ZWE,Zimbabwe,2004,65.0
+ZWE,Zimbabwe,2005,68.0
+ZWE,Zimbabwe,2006,70.0
+ZWE,Zimbabwe,2007,73.0
+ZWE,Zimbabwe,2008,75.0
+ZWE,Zimbabwe,2009,73.0
+ZWE,Zimbabwe,2010,89.0
+ZWE,Zimbabwe,2011,93.0
+ZWE,Zimbabwe,2012,95.0
+ZWE,Zimbabwe,2013,95.0
+ZWE,Zimbabwe,2014,91.0
+ZWE,Zimbabwe,2015,87.0
+ZWE,Zimbabwe,2016,90.0
+ZWE,Zimbabwe,2017,89.0
+ZWE,Zimbabwe,2018,89.0
+ZWE,Zimbabwe,2019,90.0
+ZWE,Zimbabwe,2020,86.0
+ZWE,Zimbabwe,2021,88.0
+ZWE,Zimbabwe,2022,90.0
+ZWE,Zimbabwe,2023,90.0

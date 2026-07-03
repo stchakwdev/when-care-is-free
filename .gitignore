@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+site/node_modules/
+site/dist/
+site/.observablehq/cache/
+site/src/.observablehq/cache/
+PUBLISH.md
+fetch.log
+.venv/
+node_modules/

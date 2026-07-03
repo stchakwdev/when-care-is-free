@@ -1,0 +1,17 @@
+iso3,year,column,original,action,repaired_value
+CAF,2009,u5mr,489.3,repaired,142.89804057438997
+CAF,2019,u5mr,254.7,repaired,122.18363229172719
+RWA,1994,u5mr,389.0,kept (documented crisis),
+SOM,2011,u5mr,363.1,kept (documented crisis),
+CAF,2009,imr,239.9,repaired,85.91216444718408
+CAF,2019,imr,128.9,repaired,74.29892327618215
+MWI,2001,imr,138.5,repaired,91.03746481531655
+RWA,1994,imr,212.9,kept (documented crisis),
+SOM,2011,imr,217.6,kept (documented crisis),
+SSD,1998,imr,238.8,kept (documented crisis),
+MOZ,2021,mmr,180.0,kept (documented crisis),
+NAM,2021,mmr,254.0,kept (documented crisis),
+RWA,1994,mmr,5721.0,kept (documented crisis),
+SWZ,2021,mmr,219.0,kept (documented crisis),
+ZAF,2021,mmr,191.0,kept (documented crisis),
+ZMB,2021,mmr,140.0,kept (documented crisis),

@@ -1,0 +1,1497 @@
+iso3,country,year,value
+AGO,Angola,1990,876
+AGO,Angola,1991,826
+AGO,Angola,1992,877
+AGO,Angola,1993,855
+AGO,Angola,1994,812
+AGO,Angola,1995,772
+AGO,Angola,1996,747
+AGO,Angola,1997,717
+AGO,Angola,1998,723
+AGO,Angola,1999,687
+AGO,Angola,2000,659
+AGO,Angola,2001,629
+AGO,Angola,2002,602
+AGO,Angola,2003,538
+AGO,Angola,2004,499
+AGO,Angola,2005,462
+AGO,Angola,2006,437
+AGO,Angola,2007,401
+AGO,Angola,2008,372
+AGO,Angola,2009,348
+AGO,Angola,2010,321
+AGO,Angola,2011,301
+AGO,Angola,2012,278
+AGO,Angola,2013,267
+AGO,Angola,2014,262
+AGO,Angola,2015,249
+AGO,Angola,2016,236
+AGO,Angola,2017,220
+AGO,Angola,2018,208
+AGO,Angola,2019,202
+AGO,Angola,2020,195
+AGO,Angola,2021,211
+AGO,Angola,2022,185
+AGO,Angola,2023,183
+BDI,Burundi,1990,1515
+BDI,Burundi,1991,1513
+BDI,Burundi,1992,1464
+BDI,Burundi,1993,1801
+BDI,Burundi,1994,1215
+BDI,Burundi,1995,1293
+BDI,Burundi,1996,1236
+BDI,Burundi,1997,1100
+BDI,Burundi,1998,969
+BDI,Burundi,1999,899
+BDI,Burundi,2000,860
+BDI,Burundi,2001,799
+BDI,Burundi,2002,743
+BDI,Burundi,2003,705
+BDI,Burundi,2004,687
+BDI,Burundi,2005,685
+BDI,Burundi,2006,670
+BDI,Burundi,2007,655
+BDI,Burundi,2008,635
+BDI,Burundi,2009,612
+BDI,Burundi,2010,614
+BDI,Burundi,2011,597
+BDI,Burundi,2012,575
+BDI,Burundi,2013,555
+BDI,Burundi,2014,533
+BDI,Burundi,2015,525
+BDI,Burundi,2016,501
+BDI,Burundi,2017,482
+BDI,Burundi,2018,464
+BDI,Burundi,2019,449
+BDI,Burundi,2020,441
+BDI,Burundi,2021,447
+BDI,Burundi,2022,412
+BDI,Burundi,2023,392
+BEN,Benin,1990,692
+BEN,Benin,1991,666
+BEN,Benin,1992,625
+BEN,Benin,1993,591
+BEN,Benin,1994,605
+BEN,Benin,1995,586
+BEN,Benin,1996,576
+BEN,Benin,1997,556
+BEN,Benin,1998,547
+BEN,Benin,1999,536
+BEN,Benin,2000,529
+BEN,Benin,2001,532
+BEN,Benin,2002,534
+BEN,Benin,2003,532
+BEN,Benin,2004,531
+BEN,Benin,2005,514
+BEN,Benin,2006,509
+BEN,Benin,2007,501
+BEN,Benin,2008,563
+BEN,Benin,2009,598
+BEN,Benin,2010,607
+BEN,Benin,2011,613
+BEN,Benin,2012,618
+BEN,Benin,2013,607
+BEN,Benin,2014,605
+BEN,Benin,2015,606
+BEN,Benin,2016,604
+BEN,Benin,2017,592
+BEN,Benin,2018,585
+BEN,Benin,2019,572
+BEN,Benin,2020,578
+BEN,Benin,2021,584
+BEN,Benin,2022,547
+BEN,Benin,2023,518
+BFA,Burkina Faso,1990,759
+BFA,Burkina Faso,1991,732
+BFA,Burkina Faso,1992,703
+BFA,Burkina Faso,1993,677
+BFA,Burkina Faso,1994,651
+BFA,Burkina Faso,1995,629
+BFA,Burkina Faso,1996,605
+BFA,Burkina Faso,1997,610
+BFA,Burkina Faso,1998,567
+BFA,Burkina Faso,1999,547
+BFA,Burkina Faso,2000,524
+BFA,Burkina Faso,2001,513
+BFA,Burkina Faso,2002,508
+BFA,Burkina Faso,2003,495
+BFA,Burkina Faso,2004,481
+BFA,Burkina Faso,2005,467
+BFA,Burkina Faso,2006,463
+BFA,Burkina Faso,2007,453
+BFA,Burkina Faso,2008,429
+BFA,Burkina Faso,2009,419
+BFA,Burkina Faso,2010,404
+BFA,Burkina Faso,2011,388
+BFA,Burkina Faso,2012,376
+BFA,Burkina Faso,2013,361
+BFA,Burkina Faso,2014,344
+BFA,Burkina Faso,2015,328
+BFA,Burkina Faso,2016,313
+BFA,Burkina Faso,2017,298
+BFA,Burkina Faso,2018,286
+BFA,Burkina Faso,2019,274
+BFA,Burkina Faso,2020,334
+BFA,Burkina Faso,2021,354
+BFA,Burkina Faso,2022,316
+BFA,Burkina Faso,2023,242
+BWA,Botswana,1990,296
+BWA,Botswana,1991,283
+BWA,Botswana,1992,263
+BWA,Botswana,1993,230
+BWA,Botswana,1994,182
+BWA,Botswana,1995,148
+BWA,Botswana,1996,130
+BWA,Botswana,1997,123
+BWA,Botswana,1998,126
+BWA,Botswana,1999,131
+BWA,Botswana,2000,136
+BWA,Botswana,2001,138
+BWA,Botswana,2002,140
+BWA,Botswana,2003,142
+BWA,Botswana,2004,151
+BWA,Botswana,2005,166
+BWA,Botswana,2006,204
+BWA,Botswana,2007,201
+BWA,Botswana,2008,199
+BWA,Botswana,2009,213
+BWA,Botswana,2010,228
+BWA,Botswana,2011,269
+BWA,Botswana,2012,288
+BWA,Botswana,2013,221
+BWA,Botswana,2014,212
+BWA,Botswana,2015,141
+BWA,Botswana,2016,72
+BWA,Botswana,2017,46
+BWA,Botswana,2018,99
+BWA,Botswana,2019,100
+BWA,Botswana,2020,98
+BWA,Botswana,2021,165
+BWA,Botswana,2022,120
+BWA,Botswana,2023,155
+CAF,Central African Republic,1990,866
+CAF,Central African Republic,1991,910
+CAF,Central African Republic,1992,956
+CAF,Central African Republic,1993,997
+CAF,Central African Republic,1994,1053
+CAF,Central African Republic,1995,1123
+CAF,Central African Republic,1996,1191
+CAF,Central African Republic,1997,1270
+CAF,Central African Republic,1998,1346
+CAF,Central African Republic,1999,1411
+CAF,Central African Republic,2000,1490
+CAF,Central African Republic,2001,1504
+CAF,Central African Republic,2002,1496
+CAF,Central African Republic,2003,1487
+CAF,Central African Republic,2004,1450
+CAF,Central African Republic,2005,1389
+CAF,Central African Republic,2006,1337
+CAF,Central African Republic,2007,1271
+CAF,Central African Republic,2008,1234
+CAF,Central African Republic,2009,1272
+CAF,Central African Republic,2010,1230
+CAF,Central African Republic,2011,1131
+CAF,Central African Republic,2012,1092
+CAF,Central African Republic,2013,1092
+CAF,Central African Republic,2014,1034
+CAF,Central African Republic,2015,981
+CAF,Central African Republic,2016,962
+CAF,Central African Republic,2017,1093
+CAF,Central African Republic,2018,881
+CAF,Central African Republic,2019,1650
+CAF,Central African Republic,2020,1296
+CAF,Central African Republic,2021,1127
+CAF,Central African Republic,2022,841
+CAF,Central African Republic,2023,692
+CIV,Cote d'Ivoire,1990,619
+CIV,Cote d'Ivoire,1991,584
+CIV,Cote d'Ivoire,1992,546
+CIV,Cote d'Ivoire,1993,503
+CIV,Cote d'Ivoire,1994,463
+CIV,Cote d'Ivoire,1995,421
+CIV,Cote d'Ivoire,1996,381
+CIV,Cote d'Ivoire,1997,364
+CIV,Cote d'Ivoire,1998,380
+CIV,Cote d'Ivoire,1999,381
+CIV,Cote d'Ivoire,2000,378
+CIV,Cote d'Ivoire,2001,405
+CIV,Cote d'Ivoire,2002,427
+CIV,Cote d'Ivoire,2003,451
+CIV,Cote d'Ivoire,2004,456
+CIV,Cote d'Ivoire,2005,492
+CIV,Cote d'Ivoire,2006,544
+CIV,Cote d'Ivoire,2007,567
+CIV,Cote d'Ivoire,2008,562
+CIV,Cote d'Ivoire,2009,588
+CIV,Cote d'Ivoire,2010,592
+CIV,Cote d'Ivoire,2011,569
+CIV,Cote d'Ivoire,2012,566
+CIV,Cote d'Ivoire,2013,544
+CIV,Cote d'Ivoire,2014,522
+CIV,Cote d'Ivoire,2015,505
+CIV,Cote d'Ivoire,2016,488
+CIV,Cote d'Ivoire,2017,465
+CIV,Cote d'Ivoire,2018,449
+CIV,Cote d'Ivoire,2019,429
+CIV,Cote d'Ivoire,2020,447
+CIV,Cote d'Ivoire,2021,459
+CIV,Cote d'Ivoire,2022,409
+CIV,Cote d'Ivoire,2023,359
+CMR,Cameroon,1990,570
+CMR,Cameroon,1991,584
+CMR,Cameroon,1992,595
+CMR,Cameroon,1993,606
+CMR,Cameroon,1994,628
+CMR,Cameroon,1995,641
+CMR,Cameroon,1996,648
+CMR,Cameroon,1997,652
+CMR,Cameroon,1998,666
+CMR,Cameroon,1999,672
+CMR,Cameroon,2000,678
+CMR,Cameroon,2001,672
+CMR,Cameroon,2002,658
+CMR,Cameroon,2003,645
+CMR,Cameroon,2004,633
+CMR,Cameroon,2005,629
+CMR,Cameroon,2006,615
+CMR,Cameroon,2007,605
+CMR,Cameroon,2008,592
+CMR,Cameroon,2009,579
+CMR,Cameroon,2010,562
+CMR,Cameroon,2011,541
+CMR,Cameroon,2012,500
+CMR,Cameroon,2013,469
+CMR,Cameroon,2014,440
+CMR,Cameroon,2015,417
+CMR,Cameroon,2016,393
+CMR,Cameroon,2017,372
+CMR,Cameroon,2018,354
+CMR,Cameroon,2019,336
+CMR,Cameroon,2020,316
+CMR,Cameroon,2021,342
+CMR,Cameroon,2022,276
+CMR,Cameroon,2023,258
+COD,"Congo, Dem. Rep.",1990,755
+COD,"Congo, Dem. Rep.",1991,735
+COD,"Congo, Dem. Rep.",1992,709
+COD,"Congo, Dem. Rep.",1993,683
+COD,"Congo, Dem. Rep.",1994,656
+COD,"Congo, Dem. Rep.",1995,644
+COD,"Congo, Dem. Rep.",1996,661
+COD,"Congo, Dem. Rep.",1997,617
+COD,"Congo, Dem. Rep.",1998,605
+COD,"Congo, Dem. Rep.",1999,601
+COD,"Congo, Dem. Rep.",2000,585
+COD,"Congo, Dem. Rep.",2001,588
+COD,"Congo, Dem. Rep.",2002,601
+COD,"Congo, Dem. Rep.",2003,605
+COD,"Congo, Dem. Rep.",2004,607
+COD,"Congo, Dem. Rep.",2005,613
+COD,"Congo, Dem. Rep.",2006,619
+COD,"Congo, Dem. Rep.",2007,631
+COD,"Congo, Dem. Rep.",2008,620
+COD,"Congo, Dem. Rep.",2009,608
+COD,"Congo, Dem. Rep.",2010,601
+COD,"Congo, Dem. Rep.",2011,589
+COD,"Congo, Dem. Rep.",2012,578
+COD,"Congo, Dem. Rep.",2013,567
+COD,"Congo, Dem. Rep.",2014,558
+COD,"Congo, Dem. Rep.",2015,545
+COD,"Congo, Dem. Rep.",2016,526
+COD,"Congo, Dem. Rep.",2017,519
+COD,"Congo, Dem. Rep.",2018,508
+COD,"Congo, Dem. Rep.",2019,493
+COD,"Congo, Dem. Rep.",2020,489
+COD,"Congo, Dem. Rep.",2021,507
+COD,"Congo, Dem. Rep.",2022,456
+COD,"Congo, Dem. Rep.",2023,427
+COG,"Congo, Rep.",1990,505
+COG,"Congo, Rep.",1991,514
+COG,"Congo, Rep.",1992,531
+COG,"Congo, Rep.",1993,541
+COG,"Congo, Rep.",1994,551
+COG,"Congo, Rep.",1995,551
+COG,"Congo, Rep.",1996,545
+COG,"Congo, Rep.",1997,650
+COG,"Congo, Rep.",1998,597
+COG,"Congo, Rep.",1999,554
+COG,"Congo, Rep.",2000,509
+COG,"Congo, Rep.",2001,489
+COG,"Congo, Rep.",2002,464
+COG,"Congo, Rep.",2003,436
+COG,"Congo, Rep.",2004,400
+COG,"Congo, Rep.",2005,385
+COG,"Congo, Rep.",2006,394
+COG,"Congo, Rep.",2007,370
+COG,"Congo, Rep.",2008,395
+COG,"Congo, Rep.",2009,414
+COG,"Congo, Rep.",2010,382
+COG,"Congo, Rep.",2011,378
+COG,"Congo, Rep.",2012,374
+COG,"Congo, Rep.",2013,320
+COG,"Congo, Rep.",2014,302
+COG,"Congo, Rep.",2015,284
+COG,"Congo, Rep.",2016,263
+COG,"Congo, Rep.",2017,262
+COG,"Congo, Rep.",2018,259
+COG,"Congo, Rep.",2019,245
+COG,"Congo, Rep.",2020,247
+COG,"Congo, Rep.",2021,301
+COG,"Congo, Rep.",2022,241
+COG,"Congo, Rep.",2023,241
+COM,Comoros,1990,737
+COM,Comoros,1991,704
+COM,Comoros,1992,675
+COM,Comoros,1993,642
+COM,Comoros,1994,602
+COM,Comoros,1995,571
+COM,Comoros,1996,545
+COM,Comoros,1997,520
+COM,Comoros,1998,515
+COM,Comoros,1999,486
+COM,Comoros,2000,476
+COM,Comoros,2001,440
+COM,Comoros,2002,428
+COM,Comoros,2003,400
+COM,Comoros,2004,385
+COM,Comoros,2005,373
+COM,Comoros,2006,360
+COM,Comoros,2007,352
+COM,Comoros,2008,334
+COM,Comoros,2009,320
+COM,Comoros,2010,305
+COM,Comoros,2011,291
+COM,Comoros,2012,274
+COM,Comoros,2013,260
+COM,Comoros,2014,247
+COM,Comoros,2015,237
+COM,Comoros,2016,225
+COM,Comoros,2017,219
+COM,Comoros,2018,209
+COM,Comoros,2019,202
+COM,Comoros,2020,198
+COM,Comoros,2021,215
+COM,Comoros,2022,186
+COM,Comoros,2023,179
+DJI,Djibouti,1990,725
+DJI,Djibouti,1991,731
+DJI,Djibouti,1992,780
+DJI,Djibouti,1993,704
+DJI,Djibouti,1994,682
+DJI,Djibouti,1995,634
+DJI,Djibouti,1996,609
+DJI,Djibouti,1997,582
+DJI,Djibouti,1998,555
+DJI,Djibouti,1999,524
+DJI,Djibouti,2000,501
+DJI,Djibouti,2001,441
+DJI,Djibouti,2002,404
+DJI,Djibouti,2003,391
+DJI,Djibouti,2004,364
+DJI,Djibouti,2005,315
+DJI,Djibouti,2006,298
+DJI,Djibouti,2007,285
+DJI,Djibouti,2008,273
+DJI,Djibouti,2009,263
+DJI,Djibouti,2010,243
+DJI,Djibouti,2011,229
+DJI,Djibouti,2012,221
+DJI,Djibouti,2013,219
+DJI,Djibouti,2014,212
+DJI,Djibouti,2015,210
+DJI,Djibouti,2016,204
+DJI,Djibouti,2017,201
+DJI,Djibouti,2018,199
+DJI,Djibouti,2019,194
+DJI,Djibouti,2020,192
+DJI,Djibouti,2021,221
+DJI,Djibouti,2022,174
+DJI,Djibouti,2023,162
+ERI,Eritrea,1990,1352
+ERI,Eritrea,1991,1384
+ERI,Eritrea,1992,1149
+ERI,Eritrea,1993,1040
+ERI,Eritrea,1994,998
+ERI,Eritrea,1995,854
+ERI,Eritrea,1996,878
+ERI,Eritrea,1997,817
+ERI,Eritrea,1998,865
+ERI,Eritrea,1999,734
+ERI,Eritrea,2000,741
+ERI,Eritrea,2001,651
+ERI,Eritrea,2002,636
+ERI,Eritrea,2003,588
+ERI,Eritrea,2004,588
+ERI,Eritrea,2005,567
+ERI,Eritrea,2006,555
+ERI,Eritrea,2007,541
+ERI,Eritrea,2008,530
+ERI,Eritrea,2009,515
+ERI,Eritrea,2010,498
+ERI,Eritrea,2011,478
+ERI,Eritrea,2012,458
+ERI,Eritrea,2013,443
+ERI,Eritrea,2014,430
+ERI,Eritrea,2015,413
+ERI,Eritrea,2016,395
+ERI,Eritrea,2017,379
+ERI,Eritrea,2018,363
+ERI,Eritrea,2019,351
+ERI,Eritrea,2020,334
+ERI,Eritrea,2021,338
+ERI,Eritrea,2022,301
+ERI,Eritrea,2023,291
+ETH,Ethiopia,1990,1320
+ETH,Ethiopia,1991,1239
+ETH,Ethiopia,1992,1218
+ETH,Ethiopia,1993,1168
+ETH,Ethiopia,1994,1113
+ETH,Ethiopia,1995,1060
+ETH,Ethiopia,1996,1008
+ETH,Ethiopia,1997,957
+ETH,Ethiopia,1998,911
+ETH,Ethiopia,1999,901
+ETH,Ethiopia,2000,870
+ETH,Ethiopia,2001,856
+ETH,Ethiopia,2002,826
+ETH,Ethiopia,2003,797
+ETH,Ethiopia,2004,764
+ETH,Ethiopia,2005,754
+ETH,Ethiopia,2006,729
+ETH,Ethiopia,2007,704
+ETH,Ethiopia,2008,678
+ETH,Ethiopia,2009,649
+ETH,Ethiopia,2010,619
+ETH,Ethiopia,2011,588
+ETH,Ethiopia,2012,545
+ETH,Ethiopia,2013,494
+ETH,Ethiopia,2014,444
+ETH,Ethiopia,2015,401
+ETH,Ethiopia,2016,364
+ETH,Ethiopia,2017,327
+ETH,Ethiopia,2018,297
+ETH,Ethiopia,2019,269
+ETH,Ethiopia,2020,244
+ETH,Ethiopia,2021,250
+ETH,Ethiopia,2022,207
+ETH,Ethiopia,2023,195
+GAB,Gabon,1990,368
+GAB,Gabon,1991,369
+GAB,Gabon,1992,371
+GAB,Gabon,1993,364
+GAB,Gabon,1994,357
+GAB,Gabon,1995,341
+GAB,Gabon,1996,321
+GAB,Gabon,1997,290
+GAB,Gabon,1998,258
+GAB,Gabon,1999,216
+GAB,Gabon,2000,178
+GAB,Gabon,2001,160
+GAB,Gabon,2002,151
+GAB,Gabon,2003,134
+GAB,Gabon,2004,142
+GAB,Gabon,2005,175
+GAB,Gabon,2006,186
+GAB,Gabon,2007,173
+GAB,Gabon,2008,158
+GAB,Gabon,2009,158
+GAB,Gabon,2010,144
+GAB,Gabon,2011,149
+GAB,Gabon,2012,173
+GAB,Gabon,2013,235
+GAB,Gabon,2014,273
+GAB,Gabon,2015,239
+GAB,Gabon,2016,215
+GAB,Gabon,2017,184
+GAB,Gabon,2018,176
+GAB,Gabon,2019,179
+GAB,Gabon,2020,194
+GAB,Gabon,2021,249
+GAB,Gabon,2022,216
+GAB,Gabon,2023,233
+GHA,Ghana,1990,769
+GHA,Ghana,1991,745
+GHA,Ghana,1992,718
+GHA,Ghana,1993,696
+GHA,Ghana,1994,670
+GHA,Ghana,1995,630
+GHA,Ghana,1996,591
+GHA,Ghana,1997,553
+GHA,Ghana,1998,521
+GHA,Ghana,1999,490
+GHA,Ghana,2000,472
+GHA,Ghana,2001,460
+GHA,Ghana,2002,434
+GHA,Ghana,2003,410
+GHA,Ghana,2004,403
+GHA,Ghana,2005,390
+GHA,Ghana,2006,385
+GHA,Ghana,2007,377
+GHA,Ghana,2008,380
+GHA,Ghana,2009,369
+GHA,Ghana,2010,363
+GHA,Ghana,2011,356
+GHA,Ghana,2012,351
+GHA,Ghana,2013,338
+GHA,Ghana,2014,317
+GHA,Ghana,2015,310
+GHA,Ghana,2016,296
+GHA,Ghana,2017,287
+GHA,Ghana,2018,276
+GHA,Ghana,2019,260
+GHA,Ghana,2020,253
+GHA,Ghana,2021,264
+GHA,Ghana,2022,239
+GHA,Ghana,2023,234
+GIN,Guinea,1990,1162
+GIN,Guinea,1991,1143
+GIN,Guinea,1992,1124
+GIN,Guinea,1993,1094
+GIN,Guinea,1994,1081
+GIN,Guinea,1995,1042
+GIN,Guinea,1996,1010
+GIN,Guinea,1997,994
+GIN,Guinea,1998,971
+GIN,Guinea,1999,960
+GIN,Guinea,2000,951
+GIN,Guinea,2001,946
+GIN,Guinea,2002,916
+GIN,Guinea,2003,892
+GIN,Guinea,2004,869
+GIN,Guinea,2005,843
+GIN,Guinea,2006,825
+GIN,Guinea,2007,802
+GIN,Guinea,2008,772
+GIN,Guinea,2009,766
+GIN,Guinea,2010,750
+GIN,Guinea,2011,728
+GIN,Guinea,2012,703
+GIN,Guinea,2013,682
+GIN,Guinea,2014,664
+GIN,Guinea,2015,642
+GIN,Guinea,2016,606
+GIN,Guinea,2017,582
+GIN,Guinea,2018,560
+GIN,Guinea,2019,548
+GIN,Guinea,2020,528
+GIN,Guinea,2021,533
+GIN,Guinea,2022,500
+GIN,Guinea,2023,494
+GMB,"Gambia, The",1990,1207
+GMB,"Gambia, The",1991,1167
+GMB,"Gambia, The",1992,1115
+GMB,"Gambia, The",1993,1072
+GMB,"Gambia, The",1994,1039
+GMB,"Gambia, The",1995,999
+GMB,"Gambia, The",1996,956
+GMB,"Gambia, The",1997,928
+GMB,"Gambia, The",1998,867
+GMB,"Gambia, The",1999,830
+GMB,"Gambia, The",2000,810
+GMB,"Gambia, The",2001,794
+GMB,"Gambia, The",2002,772
+GMB,"Gambia, The",2003,749
+GMB,"Gambia, The",2004,719
+GMB,"Gambia, The",2005,707
+GMB,"Gambia, The",2006,682
+GMB,"Gambia, The",2007,675
+GMB,"Gambia, The",2008,653
+GMB,"Gambia, The",2009,634
+GMB,"Gambia, The",2010,632
+GMB,"Gambia, The",2011,634
+GMB,"Gambia, The",2012,628
+GMB,"Gambia, The",2013,606
+GMB,"Gambia, The",2014,561
+GMB,"Gambia, The",2015,527
+GMB,"Gambia, The",2016,490
+GMB,"Gambia, The",2017,469
+GMB,"Gambia, The",2018,450
+GMB,"Gambia, The",2019,422
+GMB,"Gambia, The",2020,400
+GMB,"Gambia, The",2021,420
+GMB,"Gambia, The",2022,365
+GMB,"Gambia, The",2023,354
+GNB,Guinea-Bissau,1990,1709
+GNB,Guinea-Bissau,1991,1663
+GNB,Guinea-Bissau,1992,1633
+GNB,Guinea-Bissau,1993,1613
+GNB,Guinea-Bissau,1994,1644
+GNB,Guinea-Bissau,1995,1556
+GNB,Guinea-Bissau,1996,1539
+GNB,Guinea-Bissau,1997,1642
+GNB,Guinea-Bissau,1998,1465
+GNB,Guinea-Bissau,1999,1461
+GNB,Guinea-Bissau,2000,1295
+GNB,Guinea-Bissau,2001,1222
+GNB,Guinea-Bissau,2002,1141
+GNB,Guinea-Bissau,2003,1069
+GNB,Guinea-Bissau,2004,980
+GNB,Guinea-Bissau,2005,956
+GNB,Guinea-Bissau,2006,831
+GNB,Guinea-Bissau,2007,792
+GNB,Guinea-Bissau,2008,802
+GNB,Guinea-Bissau,2009,753
+GNB,Guinea-Bissau,2010,698
+GNB,Guinea-Bissau,2011,678
+GNB,Guinea-Bissau,2012,704
+GNB,Guinea-Bissau,2013,707
+GNB,Guinea-Bissau,2014,662
+GNB,Guinea-Bissau,2015,631
+GNB,Guinea-Bissau,2016,617
+GNB,Guinea-Bissau,2017,597
+GNB,Guinea-Bissau,2018,585
+GNB,Guinea-Bissau,2019,598
+GNB,Guinea-Bissau,2020,603
+GNB,Guinea-Bissau,2021,617
+GNB,Guinea-Bissau,2022,539
+GNB,Guinea-Bissau,2023,505
+GNQ,Equatorial Guinea,1990,689
+GNQ,Equatorial Guinea,1991,688
+GNQ,Equatorial Guinea,1992,682
+GNQ,Equatorial Guinea,1993,668
+GNQ,Equatorial Guinea,1994,639
+GNQ,Equatorial Guinea,1995,587
+GNQ,Equatorial Guinea,1996,544
+GNQ,Equatorial Guinea,1997,507
+GNQ,Equatorial Guinea,1998,476
+GNQ,Equatorial Guinea,1999,442
+GNQ,Equatorial Guinea,2000,406
+GNQ,Equatorial Guinea,2001,388
+GNQ,Equatorial Guinea,2002,364
+GNQ,Equatorial Guinea,2003,343
+GNQ,Equatorial Guinea,2004,323
+GNQ,Equatorial Guinea,2005,312
+GNQ,Equatorial Guinea,2006,299
+GNQ,Equatorial Guinea,2007,289
+GNQ,Equatorial Guinea,2008,276
+GNQ,Equatorial Guinea,2009,267
+GNQ,Equatorial Guinea,2010,259
+GNQ,Equatorial Guinea,2011,254
+GNQ,Equatorial Guinea,2012,245
+GNQ,Equatorial Guinea,2013,236
+GNQ,Equatorial Guinea,2014,227
+GNQ,Equatorial Guinea,2015,222
+GNQ,Equatorial Guinea,2016,216
+GNQ,Equatorial Guinea,2017,212
+GNQ,Equatorial Guinea,2018,204
+GNQ,Equatorial Guinea,2019,198
+GNQ,Equatorial Guinea,2020,196
+GNQ,Equatorial Guinea,2021,202
+GNQ,Equatorial Guinea,2022,183
+GNQ,Equatorial Guinea,2023,174
+KEN,Kenya,1990,586
+KEN,Kenya,1991,493
+KEN,Kenya,1992,419
+KEN,Kenya,1993,363
+KEN,Kenya,1994,342
+KEN,Kenya,1995,308
+KEN,Kenya,1996,275
+KEN,Kenya,1997,253
+KEN,Kenya,1998,250
+KEN,Kenya,1999,217
+KEN,Kenya,2000,206
+KEN,Kenya,2001,188
+KEN,Kenya,2002,182
+KEN,Kenya,2003,177
+KEN,Kenya,2004,177
+KEN,Kenya,2005,178
+KEN,Kenya,2006,188
+KEN,Kenya,2007,198
+KEN,Kenya,2008,197
+KEN,Kenya,2009,208
+KEN,Kenya,2010,210
+KEN,Kenya,2011,209
+KEN,Kenya,2012,214
+KEN,Kenya,2013,206
+KEN,Kenya,2014,203
+KEN,Kenya,2015,203
+KEN,Kenya,2016,196
+KEN,Kenya,2017,186
+KEN,Kenya,2018,183
+KEN,Kenya,2019,176
+KEN,Kenya,2020,184
+KEN,Kenya,2021,183
+KEN,Kenya,2022,155
+KEN,Kenya,2023,149
+LBR,Liberia,1990,2146
+LBR,Liberia,1991,1627
+LBR,Liberia,1992,1643
+LBR,Liberia,1993,1709
+LBR,Liberia,1994,1811
+LBR,Liberia,1995,1530
+LBR,Liberia,1996,1438
+LBR,Liberia,1997,1043
+LBR,Liberia,1998,962
+LBR,Liberia,1999,852
+LBR,Liberia,2000,786
+LBR,Liberia,2001,720
+LBR,Liberia,2002,700
+LBR,Liberia,2003,759
+LBR,Liberia,2004,645
+LBR,Liberia,2005,619
+LBR,Liberia,2006,647
+LBR,Liberia,2007,659
+LBR,Liberia,2008,663
+LBR,Liberia,2009,674
+LBR,Liberia,2010,712
+LBR,Liberia,2011,726
+LBR,Liberia,2012,728
+LBR,Liberia,2013,725
+LBR,Liberia,2014,801
+LBR,Liberia,2015,784
+LBR,Liberia,2016,690
+LBR,Liberia,2017,703
+LBR,Liberia,2018,707
+LBR,Liberia,2019,689
+LBR,Liberia,2020,664
+LBR,Liberia,2021,667
+LBR,Liberia,2022,634
+LBR,Liberia,2023,628
+LSO,Lesotho,1990,665
+LSO,Lesotho,1991,641
+LSO,Lesotho,1992,601
+LSO,Lesotho,1993,542
+LSO,Lesotho,1994,423
+LSO,Lesotho,1995,357
+LSO,Lesotho,1996,319
+LSO,Lesotho,1997,312
+LSO,Lesotho,1998,332
+LSO,Lesotho,1999,371
+LSO,Lesotho,2000,413
+LSO,Lesotho,2001,465
+LSO,Lesotho,2002,484
+LSO,Lesotho,2003,508
+LSO,Lesotho,2004,499
+LSO,Lesotho,2005,549
+LSO,Lesotho,2006,696
+LSO,Lesotho,2007,891
+LSO,Lesotho,2008,1205
+LSO,Lesotho,2009,1387
+LSO,Lesotho,2010,1311
+LSO,Lesotho,2011,1210
+LSO,Lesotho,2012,1000
+LSO,Lesotho,2013,855
+LSO,Lesotho,2014,707
+LSO,Lesotho,2015,594
+LSO,Lesotho,2016,518
+LSO,Lesotho,2017,468
+LSO,Lesotho,2018,491
+LSO,Lesotho,2019,467
+LSO,Lesotho,2020,529
+LSO,Lesotho,2021,577
+LSO,Lesotho,2022,477
+LSO,Lesotho,2023,478
+MDG,Madagascar,1990,692
+MDG,Madagascar,1991,691
+MDG,Madagascar,1992,699
+MDG,Madagascar,1993,688
+MDG,Madagascar,1994,688
+MDG,Madagascar,1995,684
+MDG,Madagascar,1996,680
+MDG,Madagascar,1997,676
+MDG,Madagascar,1998,663
+MDG,Madagascar,1999,647
+MDG,Madagascar,2000,638
+MDG,Madagascar,2001,611
+MDG,Madagascar,2002,593
+MDG,Madagascar,2003,571
+MDG,Madagascar,2004,555
+MDG,Madagascar,2005,540
+MDG,Madagascar,2006,528
+MDG,Madagascar,2007,522
+MDG,Madagascar,2008,510
+MDG,Madagascar,2009,507
+MDG,Madagascar,2010,500
+MDG,Madagascar,2011,492
+MDG,Madagascar,2012,487
+MDG,Madagascar,2013,481
+MDG,Madagascar,2014,477
+MDG,Madagascar,2015,474
+MDG,Madagascar,2016,470
+MDG,Madagascar,2017,469
+MDG,Madagascar,2018,466
+MDG,Madagascar,2019,462
+MDG,Madagascar,2020,447
+MDG,Madagascar,2021,467
+MDG,Madagascar,2022,439
+MDG,Madagascar,2023,445
+MLI,Mali,1990,1087
+MLI,Mali,1991,1063
+MLI,Mali,1992,1024
+MLI,Mali,1993,988
+MLI,Mali,1994,935
+MLI,Mali,1995,895
+MLI,Mali,1996,875
+MLI,Mali,1997,820
+MLI,Mali,1998,781
+MLI,Mali,1999,749
+MLI,Mali,2000,741
+MLI,Mali,2001,694
+MLI,Mali,2002,649
+MLI,Mali,2003,616
+MLI,Mali,2004,592
+MLI,Mali,2005,577
+MLI,Mali,2006,568
+MLI,Mali,2007,574
+MLI,Mali,2008,573
+MLI,Mali,2009,565
+MLI,Mali,2010,558
+MLI,Mali,2011,553
+MLI,Mali,2012,549
+MLI,Mali,2013,525
+MLI,Mali,2014,507
+MLI,Mali,2015,490
+MLI,Mali,2016,472
+MLI,Mali,2017,453
+MLI,Mali,2018,434
+MLI,Mali,2019,416
+MLI,Mali,2020,405
+MLI,Mali,2021,415
+MLI,Mali,2022,381
+MLI,Mali,2023,367
+MOZ,Mozambique,1990,1150
+MOZ,Mozambique,1991,1094
+MOZ,Mozambique,1992,1046
+MOZ,Mozambique,1993,968
+MOZ,Mozambique,1994,902
+MOZ,Mozambique,1995,883
+MOZ,Mozambique,1996,819
+MOZ,Mozambique,1997,738
+MOZ,Mozambique,1998,694
+MOZ,Mozambique,1999,624
+MOZ,Mozambique,2000,547
+MOZ,Mozambique,2001,473
+MOZ,Mozambique,2002,398
+MOZ,Mozambique,2003,360
+MOZ,Mozambique,2004,321
+MOZ,Mozambique,2005,301
+MOZ,Mozambique,2006,298
+MOZ,Mozambique,2007,327
+MOZ,Mozambique,2008,365
+MOZ,Mozambique,2009,352
+MOZ,Mozambique,2010,305
+MOZ,Mozambique,2011,268
+MOZ,Mozambique,2012,218
+MOZ,Mozambique,2013,196
+MOZ,Mozambique,2014,210
+MOZ,Mozambique,2015,216
+MOZ,Mozambique,2016,202
+MOZ,Mozambique,2017,187
+MOZ,Mozambique,2018,159
+MOZ,Mozambique,2019,134
+MOZ,Mozambique,2020,123
+MOZ,Mozambique,2021,180
+MOZ,Mozambique,2022,104
+MOZ,Mozambique,2023,99
+MRT,Mauritania,1990,858
+MRT,Mauritania,1991,845
+MRT,Mauritania,1992,811
+MRT,Mauritania,1993,813
+MRT,Mauritania,1994,809
+MRT,Mauritania,1995,815
+MRT,Mauritania,1996,813
+MRT,Mauritania,1997,752
+MRT,Mauritania,1998,698
+MRT,Mauritania,1999,669
+MRT,Mauritania,2000,644
+MRT,Mauritania,2001,616
+MRT,Mauritania,2002,590
+MRT,Mauritania,2003,571
+MRT,Mauritania,2004,557
+MRT,Mauritania,2005,536
+MRT,Mauritania,2006,521
+MRT,Mauritania,2007,516
+MRT,Mauritania,2008,506
+MRT,Mauritania,2009,500
+MRT,Mauritania,2010,499
+MRT,Mauritania,2011,494
+MRT,Mauritania,2012,496
+MRT,Mauritania,2013,496
+MRT,Mauritania,2014,484
+MRT,Mauritania,2015,469
+MRT,Mauritania,2016,456
+MRT,Mauritania,2017,450
+MRT,Mauritania,2018,437
+MRT,Mauritania,2019,424
+MRT,Mauritania,2020,413
+MRT,Mauritania,2021,425
+MRT,Mauritania,2022,385
+MRT,Mauritania,2023,381
+MWI,Malawi,1990,1112
+MWI,Malawi,1991,1080
+MWI,Malawi,1992,1042
+MWI,Malawi,1993,1000
+MWI,Malawi,1994,912
+MWI,Malawi,1995,782
+MWI,Malawi,1996,713
+MWI,Malawi,1997,672
+MWI,Malawi,1998,658
+MWI,Malawi,1999,576
+MWI,Malawi,2000,506
+MWI,Malawi,2001,447
+MWI,Malawi,2002,404
+MWI,Malawi,2003,346
+MWI,Malawi,2004,304
+MWI,Malawi,2005,283
+MWI,Malawi,2006,286
+MWI,Malawi,2007,333
+MWI,Malawi,2008,430
+MWI,Malawi,2009,512
+MWI,Malawi,2010,517
+MWI,Malawi,2011,486
+MWI,Malawi,2012,447
+MWI,Malawi,2013,410
+MWI,Malawi,2014,367
+MWI,Malawi,2015,354
+MWI,Malawi,2016,312
+MWI,Malawi,2017,284
+MWI,Malawi,2018,267
+MWI,Malawi,2019,260
+MWI,Malawi,2020,256
+MWI,Malawi,2021,286
+MWI,Malawi,2022,239
+MWI,Malawi,2023,225
+NAM,Namibia,1990,325
+NAM,Namibia,1991,337
+NAM,Namibia,1992,346
+NAM,Namibia,1993,354
+NAM,Namibia,1994,367
+NAM,Namibia,1995,369
+NAM,Namibia,1996,387
+NAM,Namibia,1997,383
+NAM,Namibia,1998,396
+NAM,Namibia,1999,371
+NAM,Namibia,2000,384
+NAM,Namibia,2001,376
+NAM,Namibia,2002,313
+NAM,Namibia,2003,290
+NAM,Namibia,2004,282
+NAM,Namibia,2005,344
+NAM,Namibia,2006,408
+NAM,Namibia,2007,489
+NAM,Namibia,2008,537
+NAM,Namibia,2009,547
+NAM,Namibia,2010,531
+NAM,Namibia,2011,498
+NAM,Namibia,2012,439
+NAM,Namibia,2013,402
+NAM,Namibia,2014,369
+NAM,Namibia,2015,307
+NAM,Namibia,2016,250
+NAM,Namibia,2017,213
+NAM,Namibia,2018,198
+NAM,Namibia,2019,175
+NAM,Namibia,2020,143
+NAM,Namibia,2021,254
+NAM,Namibia,2022,127
+NAM,Namibia,2023,139
+NER,Niger,1990,983
+NER,Niger,1991,957
+NER,Niger,1992,926
+NER,Niger,1993,903
+NER,Niger,1994,883
+NER,Niger,1995,865
+NER,Niger,1996,854
+NER,Niger,1997,841
+NER,Niger,1998,839
+NER,Niger,1999,841
+NER,Niger,2000,845
+NER,Niger,2001,843
+NER,Niger,2002,835
+NER,Niger,2003,813
+NER,Niger,2004,790
+NER,Niger,2005,764
+NER,Niger,2006,737
+NER,Niger,2007,704
+NER,Niger,2008,669
+NER,Niger,2009,647
+NER,Niger,2010,621
+NER,Niger,2011,585
+NER,Niger,2012,554
+NER,Niger,2013,526
+NER,Niger,2014,497
+NER,Niger,2015,473
+NER,Niger,2016,450
+NER,Niger,2017,433
+NER,Niger,2018,420
+NER,Niger,2019,406
+NER,Niger,2020,388
+NER,Niger,2021,396
+NER,Niger,2022,361
+NER,Niger,2023,350
+NGA,Nigeria,1990,1285
+NGA,Nigeria,1991,1282
+NGA,Nigeria,1992,1246
+NGA,Nigeria,1993,1200
+NGA,Nigeria,1994,1193
+NGA,Nigeria,1995,1186
+NGA,Nigeria,1996,1185
+NGA,Nigeria,1997,1184
+NGA,Nigeria,1998,1189
+NGA,Nigeria,1999,1165
+NGA,Nigeria,2000,1136
+NGA,Nigeria,2001,1130
+NGA,Nigeria,2002,1117
+NGA,Nigeria,2003,1090
+NGA,Nigeria,2004,1075
+NGA,Nigeria,2005,1060
+NGA,Nigeria,2006,1067
+NGA,Nigeria,2007,1063
+NGA,Nigeria,2008,1081
+NGA,Nigeria,2009,1088
+NGA,Nigeria,2010,1094
+NGA,Nigeria,2011,1108
+NGA,Nigeria,2012,1124
+NGA,Nigeria,2013,1146
+NGA,Nigeria,2014,1155
+NGA,Nigeria,2015,1168
+NGA,Nigeria,2016,1155
+NGA,Nigeria,2017,1142
+NGA,Nigeria,2018,1118
+NGA,Nigeria,2019,1091
+NGA,Nigeria,2020,1065
+NGA,Nigeria,2021,1046
+NGA,Nigeria,2022,1016
+NGA,Nigeria,2023,993
+RWA,Rwanda,1990,1309
+RWA,Rwanda,1991,1386
+RWA,Rwanda,1992,1530
+RWA,Rwanda,1993,1619
+RWA,Rwanda,1994,5721
+RWA,Rwanda,1995,1505
+RWA,Rwanda,1996,1295
+RWA,Rwanda,1997,1318
+RWA,Rwanda,1998,1268
+RWA,Rwanda,1999,1073
+RWA,Rwanda,2000,885
+RWA,Rwanda,2001,769
+RWA,Rwanda,2002,677
+RWA,Rwanda,2003,551
+RWA,Rwanda,2004,460
+RWA,Rwanda,2005,465
+RWA,Rwanda,2006,494
+RWA,Rwanda,2007,494
+RWA,Rwanda,2008,454
+RWA,Rwanda,2009,418
+RWA,Rwanda,2010,393
+RWA,Rwanda,2011,358
+RWA,Rwanda,2012,331
+RWA,Rwanda,2013,317
+RWA,Rwanda,2014,301
+RWA,Rwanda,2015,292
+RWA,Rwanda,2016,278
+RWA,Rwanda,2017,275
+RWA,Rwanda,2018,269
+RWA,Rwanda,2019,261
+RWA,Rwanda,2020,252
+RWA,Rwanda,2021,254
+RWA,Rwanda,2022,234
+RWA,Rwanda,2023,229
+SEN,Senegal,1990,640
+SEN,Senegal,1991,616
+SEN,Senegal,1992,598
+SEN,Senegal,1993,589
+SEN,Senegal,1994,579
+SEN,Senegal,1995,586
+SEN,Senegal,1996,601
+SEN,Senegal,1997,599
+SEN,Senegal,1998,605
+SEN,Senegal,1999,602
+SEN,Senegal,2000,581
+SEN,Senegal,2001,560
+SEN,Senegal,2002,531
+SEN,Senegal,2003,520
+SEN,Senegal,2004,501
+SEN,Senegal,2005,488
+SEN,Senegal,2006,462
+SEN,Senegal,2007,457
+SEN,Senegal,2008,463
+SEN,Senegal,2009,441
+SEN,Senegal,2010,436
+SEN,Senegal,2011,415
+SEN,Senegal,2012,405
+SEN,Senegal,2013,385
+SEN,Senegal,2014,373
+SEN,Senegal,2015,357
+SEN,Senegal,2016,345
+SEN,Senegal,2017,325
+SEN,Senegal,2018,305
+SEN,Senegal,2019,286
+SEN,Senegal,2020,252
+SEN,Senegal,2021,263
+SEN,Senegal,2022,228
+SEN,Senegal,2023,237
+SLE,Sierra Leone,1990,1572
+SLE,Sierra Leone,1991,1699
+SLE,Sierra Leone,1992,1681
+SLE,Sierra Leone,1993,1696
+SLE,Sierra Leone,1994,1755
+SLE,Sierra Leone,1995,1777
+SLE,Sierra Leone,1996,1726
+SLE,Sierra Leone,1997,1721
+SLE,Sierra Leone,1998,1753
+SLE,Sierra Leone,1999,1731
+SLE,Sierra Leone,2000,1603
+SLE,Sierra Leone,2001,1518
+SLE,Sierra Leone,2002,1492
+SLE,Sierra Leone,2003,1433
+SLE,Sierra Leone,2004,1366
+SLE,Sierra Leone,2005,1294
+SLE,Sierra Leone,2006,1168
+SLE,Sierra Leone,2007,1132
+SLE,Sierra Leone,2008,1093
+SLE,Sierra Leone,2009,1054
+SLE,Sierra Leone,2010,1018
+SLE,Sierra Leone,2011,967
+SLE,Sierra Leone,2012,915
+SLE,Sierra Leone,2013,842
+SLE,Sierra Leone,2014,821
+SLE,Sierra Leone,2015,730
+SLE,Sierra Leone,2016,633
+SLE,Sierra Leone,2017,578
+SLE,Sierra Leone,2018,491
+SLE,Sierra Leone,2019,464
+SLE,Sierra Leone,2020,422
+SLE,Sierra Leone,2021,403
+SLE,Sierra Leone,2022,370
+SLE,Sierra Leone,2023,354
+SOM,"Somalia, Fed. Rep.",1990,1358
+SOM,"Somalia, Fed. Rep.",1991,1431
+SOM,"Somalia, Fed. Rep.",1992,1339
+SOM,"Somalia, Fed. Rep.",1993,1195
+SOM,"Somalia, Fed. Rep.",1994,1254
+SOM,"Somalia, Fed. Rep.",1995,1210
+SOM,"Somalia, Fed. Rep.",1996,1225
+SOM,"Somalia, Fed. Rep.",1997,1206
+SOM,"Somalia, Fed. Rep.",1998,1177
+SOM,"Somalia, Fed. Rep.",1999,1170
+SOM,"Somalia, Fed. Rep.",2000,1150
+SOM,"Somalia, Fed. Rep.",2001,1129
+SOM,"Somalia, Fed. Rep.",2002,1121
+SOM,"Somalia, Fed. Rep.",2003,1111
+SOM,"Somalia, Fed. Rep.",2004,1104
+SOM,"Somalia, Fed. Rep.",2005,1086
+SOM,"Somalia, Fed. Rep.",2006,1085
+SOM,"Somalia, Fed. Rep.",2007,1074
+SOM,"Somalia, Fed. Rep.",2008,1035
+SOM,"Somalia, Fed. Rep.",2009,995
+SOM,"Somalia, Fed. Rep.",2010,1062
+SOM,"Somalia, Fed. Rep.",2011,972
+SOM,"Somalia, Fed. Rep.",2012,894
+SOM,"Somalia, Fed. Rep.",2013,855
+SOM,"Somalia, Fed. Rep.",2014,816
+SOM,"Somalia, Fed. Rep.",2015,784
+SOM,"Somalia, Fed. Rep.",2016,754
+SOM,"Somalia, Fed. Rep.",2017,716
+SOM,"Somalia, Fed. Rep.",2018,727
+SOM,"Somalia, Fed. Rep.",2019,656
+SOM,"Somalia, Fed. Rep.",2020,655
+SOM,"Somalia, Fed. Rep.",2021,726
+SOM,"Somalia, Fed. Rep.",2022,622
+SOM,"Somalia, Fed. Rep.",2023,563
+SSD,South Sudan,1990,4877
+SSD,South Sudan,1991,4764
+SSD,South Sudan,1992,7597
+SSD,South Sudan,1993,7537
+SSD,South Sudan,1994,1666
+SSD,South Sudan,1995,4430
+SSD,South Sudan,1996,4357
+SSD,South Sudan,1997,4172
+SSD,South Sudan,1998,7514
+SSD,South Sudan,1999,2048
+SSD,South Sudan,2000,1658
+SSD,South Sudan,2001,1580
+SSD,South Sudan,2002,1521
+SSD,South Sudan,2003,1199
+SSD,South Sudan,2004,1150
+SSD,South Sudan,2005,1074
+SSD,South Sudan,2006,1005
+SSD,South Sudan,2007,933
+SSD,South Sudan,2008,858
+SSD,South Sudan,2009,823
+SSD,South Sudan,2010,776
+SSD,South Sudan,2011,770
+SSD,South Sudan,2012,755
+SSD,South Sudan,2013,771
+SSD,South Sudan,2014,1216
+SSD,South Sudan,2015,1436
+SSD,South Sudan,2016,1629
+SSD,South Sudan,2017,1662
+SSD,South Sudan,2018,913
+SSD,South Sudan,2019,745
+SSD,South Sudan,2020,729
+SSD,South Sudan,2021,749
+SSD,South Sudan,2022,704
+SSD,South Sudan,2023,692
+SWZ,Eswatini,1990,520
+SWZ,Eswatini,1991,545
+SWZ,Eswatini,1992,580
+SWZ,Eswatini,1993,609
+SWZ,Eswatini,1994,645
+SWZ,Eswatini,1995,612
+SWZ,Eswatini,1996,604
+SWZ,Eswatini,1997,550
+SWZ,Eswatini,1998,475
+SWZ,Eswatini,1999,409
+SWZ,Eswatini,2000,361
+SWZ,Eswatini,2001,307
+SWZ,Eswatini,2002,331
+SWZ,Eswatini,2003,392
+SWZ,Eswatini,2004,451
+SWZ,Eswatini,2005,529
+SWZ,Eswatini,2006,511
+SWZ,Eswatini,2007,647
+SWZ,Eswatini,2008,766
+SWZ,Eswatini,2009,855
+SWZ,Eswatini,2010,752
+SWZ,Eswatini,2011,765
+SWZ,Eswatini,2012,613
+SWZ,Eswatini,2013,491
+SWZ,Eswatini,2014,369
+SWZ,Eswatini,2015,283
+SWZ,Eswatini,2016,213
+SWZ,Eswatini,2017,151
+SWZ,Eswatini,2018,133
+SWZ,Eswatini,2019,96
+SWZ,Eswatini,2020,102
+SWZ,Eswatini,2021,219
+SWZ,Eswatini,2022,112
+SWZ,Eswatini,2023,118
+TCD,Chad,1990,1113
+TCD,Chad,1991,1093
+TCD,Chad,1992,1119
+TCD,Chad,1993,1166
+TCD,Chad,1994,1151
+TCD,Chad,1995,1119
+TCD,Chad,1996,1150
+TCD,Chad,1997,1146
+TCD,Chad,1998,1177
+TCD,Chad,1999,1184
+TCD,Chad,2000,1208
+TCD,Chad,2001,1204
+TCD,Chad,2002,1199
+TCD,Chad,2003,1170
+TCD,Chad,2004,1167
+TCD,Chad,2005,1189
+TCD,Chad,2006,1220
+TCD,Chad,2007,1240
+TCD,Chad,2008,1264
+TCD,Chad,2009,1285
+TCD,Chad,2010,1284
+TCD,Chad,2011,1264
+TCD,Chad,2012,1245
+TCD,Chad,2013,1216
+TCD,Chad,2014,1198
+TCD,Chad,2015,1176
+TCD,Chad,2016,1133
+TCD,Chad,2017,1085
+TCD,Chad,2018,1020
+TCD,Chad,2019,958
+TCD,Chad,2020,877
+TCD,Chad,2021,869
+TCD,Chad,2022,775
+TCD,Chad,2023,748
+TGO,Togo,1990,657
+TGO,Togo,1991,676
+TGO,Togo,1992,692
+TGO,Togo,1993,728
+TGO,Togo,1994,688
+TGO,Togo,1995,663
+TGO,Togo,1996,627
+TGO,Togo,1997,600
+TGO,Togo,1998,570
+TGO,Togo,1999,529
+TGO,Togo,2000,496
+TGO,Togo,2001,478
+TGO,Togo,2002,447
+TGO,Togo,2003,431
+TGO,Togo,2004,431
+TGO,Togo,2005,434
+TGO,Togo,2006,453
+TGO,Togo,2007,448
+TGO,Togo,2008,457
+TGO,Togo,2009,471
+TGO,Togo,2010,497
+TGO,Togo,2011,501
+TGO,Togo,2012,506
+TGO,Togo,2013,500
+TGO,Togo,2014,490
+TGO,Togo,2015,470
+TGO,Togo,2016,460
+TGO,Togo,2017,443
+TGO,Togo,2018,435
+TGO,Togo,2019,416
+TGO,Togo,2020,398
+TGO,Togo,2021,397
+TGO,Togo,2022,362
+TGO,Togo,2023,349
+TZA,Tanzania,1990,900
+TZA,Tanzania,1991,873
+TZA,Tanzania,1992,864
+TZA,Tanzania,1993,851
+TZA,Tanzania,1994,816
+TZA,Tanzania,1995,797
+TZA,Tanzania,1996,775
+TZA,Tanzania,1997,777
+TZA,Tanzania,1998,739
+TZA,Tanzania,1999,635
+TZA,Tanzania,2000,568
+TZA,Tanzania,2001,493
+TZA,Tanzania,2002,454
+TZA,Tanzania,2003,397
+TZA,Tanzania,2004,365
+TZA,Tanzania,2005,350
+TZA,Tanzania,2006,366
+TZA,Tanzania,2007,453
+TZA,Tanzania,2008,511
+TZA,Tanzania,2009,502
+TZA,Tanzania,2010,486
+TZA,Tanzania,2011,475
+TZA,Tanzania,2012,448
+TZA,Tanzania,2013,479
+TZA,Tanzania,2014,454
+TZA,Tanzania,2015,433
+TZA,Tanzania,2016,396
+TZA,Tanzania,2017,345
+TZA,Tanzania,2018,319
+TZA,Tanzania,2019,292
+TZA,Tanzania,2020,160
+TZA,Tanzania,2021,162
+TZA,Tanzania,2022,152
+TZA,Tanzania,2023,276
+UGA,Uganda,1990,575
+UGA,Uganda,1991,549
+UGA,Uganda,1992,530
+UGA,Uganda,1993,515
+UGA,Uganda,1994,507
+UGA,Uganda,1995,514
+UGA,Uganda,1996,513
+UGA,Uganda,1997,522
+UGA,Uganda,1998,523
+UGA,Uganda,1999,504
+UGA,Uganda,2000,475
+UGA,Uganda,2001,440
+UGA,Uganda,2002,416
+UGA,Uganda,2003,395
+UGA,Uganda,2004,384
+UGA,Uganda,2005,417
+UGA,Uganda,2006,409
+UGA,Uganda,2007,345
+UGA,Uganda,2008,324
+UGA,Uganda,2009,322
+UGA,Uganda,2010,304
+UGA,Uganda,2011,295
+UGA,Uganda,2012,285
+UGA,Uganda,2013,308
+UGA,Uganda,2014,311
+UGA,Uganda,2015,299
+UGA,Uganda,2016,272
+UGA,Uganda,2017,246
+UGA,Uganda,2018,232
+UGA,Uganda,2019,219
+UGA,Uganda,2020,209
+UGA,Uganda,2021,216
+UGA,Uganda,2022,184
+UGA,Uganda,2023,170
+ZAF,South Africa,1990,170
+ZAF,South Africa,1991,162
+ZAF,South Africa,1992,152
+ZAF,South Africa,1993,145
+ZAF,South Africa,1994,133
+ZAF,South Africa,1995,125
+ZAF,South Africa,1996,150
+ZAF,South Africa,1997,152
+ZAF,South Africa,1998,152
+ZAF,South Africa,1999,151
+ZAF,South Africa,2000,175
+ZAF,South Africa,2001,192
+ZAF,South Africa,2002,225
+ZAF,South Africa,2003,245
+ZAF,South Africa,2004,259
+ZAF,South Africa,2005,279
+ZAF,South Africa,2006,283
+ZAF,South Africa,2007,272
+ZAF,South Africa,2008,272
+ZAF,South Africa,2009,241
+ZAF,South Africa,2010,226
+ZAF,South Africa,2011,202
+ZAF,South Africa,2012,194
+ZAF,South Africa,2013,180
+ZAF,South Africa,2014,162
+ZAF,South Africa,2015,150
+ZAF,South Africa,2016,141
+ZAF,South Africa,2017,134
+ZAF,South Africa,2018,128
+ZAF,South Africa,2019,119
+ZAF,South Africa,2020,118
+ZAF,South Africa,2021,191
+ZAF,South Africa,2022,129
+ZAF,South Africa,2023,118
+ZMB,Zambia,1990,625
+ZMB,Zambia,1991,611
+ZMB,Zambia,1992,581
+ZMB,Zambia,1993,532
+ZMB,Zambia,1994,507
+ZMB,Zambia,1995,466
+ZMB,Zambia,1996,433
+ZMB,Zambia,1997,403
+ZMB,Zambia,1998,392
+ZMB,Zambia,1999,378
+ZMB,Zambia,2000,340
+ZMB,Zambia,2001,306
+ZMB,Zambia,2002,274
+ZMB,Zambia,2003,250
+ZMB,Zambia,2004,260
+ZMB,Zambia,2005,264
+ZMB,Zambia,2006,262
+ZMB,Zambia,2007,324
+ZMB,Zambia,2008,394
+ZMB,Zambia,2009,406
+ZMB,Zambia,2010,332
+ZMB,Zambia,2011,291
+ZMB,Zambia,2012,256
+ZMB,Zambia,2013,213
+ZMB,Zambia,2014,174
+ZMB,Zambia,2015,154
+ZMB,Zambia,2016,158
+ZMB,Zambia,2017,141
+ZMB,Zambia,2018,117
+ZMB,Zambia,2019,103
+ZMB,Zambia,2020,99
+ZMB,Zambia,2021,140
+ZMB,Zambia,2022,89
+ZMB,Zambia,2023,85
+ZWE,Zimbabwe,1990,353
+ZWE,Zimbabwe,1991,332
+ZWE,Zimbabwe,1992,333
+ZWE,Zimbabwe,1993,331
+ZWE,Zimbabwe,1994,332
+ZWE,Zimbabwe,1995,332
+ZWE,Zimbabwe,1996,352
+ZWE,Zimbabwe,1997,357
+ZWE,Zimbabwe,1998,368
+ZWE,Zimbabwe,1999,399
+ZWE,Zimbabwe,2000,405
+ZWE,Zimbabwe,2001,467
+ZWE,Zimbabwe,2002,418
+ZWE,Zimbabwe,2003,455
+ZWE,Zimbabwe,2004,451
+ZWE,Zimbabwe,2005,454
+ZWE,Zimbabwe,2006,480
+ZWE,Zimbabwe,2007,519
+ZWE,Zimbabwe,2008,526
+ZWE,Zimbabwe,2009,540
+ZWE,Zimbabwe,2010,567
+ZWE,Zimbabwe,2011,564
+ZWE,Zimbabwe,2012,558
+ZWE,Zimbabwe,2013,525
+ZWE,Zimbabwe,2014,468
+ZWE,Zimbabwe,2015,428
+ZWE,Zimbabwe,2016,411
+ZWE,Zimbabwe,2017,389
+ZWE,Zimbabwe,2018,386
+ZWE,Zimbabwe,2019,388
+ZWE,Zimbabwe,2020,380
+ZWE,Zimbabwe,2021,446
+ZWE,Zimbabwe,2022,368
+ZWE,Zimbabwe,2023,358
