@@ -67,7 +67,7 @@ Different findings in this analysis deserve different weight. Stated plainly:
 | Newborn mortality was unaffected | **Moderate** | Consistent across all nine countries (${pct(nmr.estimate).toFixed(1)}%, statistically indistinguishable from zero) |
 | Underfunded abolition underperforms | **Qualitative** | Pattern across case studies, not a formal test |
 
-Two honest caveats. Countries choose *when* to act, and those that acted were already improving slightly faster — the comparison design mostly handles this, but not perfectly. And the international mortality estimates used here are smoothed, which blurs sharp policy effects; if anything, the true short-run effect is likely somewhat larger than reported.
+Two caveats worth a minister's time. Countries choose *when* to act, and those that acted were already improving slightly faster — the comparison design mostly handles this, but not perfectly. And the international mortality estimates used here are smoothed, which blurs sharp policy effects; if anything, the true short-run effect is likely somewhat larger than reported.
 
 ## If you are considering this policy
 

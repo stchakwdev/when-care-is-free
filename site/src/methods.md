@@ -119,7 +119,7 @@ The estimate ranges from ${Math.min(...specData.map(d => (Math.expm1(d.estimate)
 
 **2. Leave-one-cohort-out.** Dropping each treated country in turn: ATT ranges ${Math.min(...loo.filter(d => d.dropped !== "none").map(d => (Math.expm1(d.estimate)*100))).toFixed(1)}% to ${Math.max(...loo.filter(d => d.dropped !== "none").map(d => (Math.expm1(d.estimate)*100))).toFixed(1)}%, all p < 0.05. No single adopter drives the result.
 
-**3. Randomization inference — the strictest test, and the most honest number on this page.** Cluster-robust standard errors with nine treated countries lean on asymptotics they may not have earned. So: reassign the nine actual adoption years to nine randomly chosen countries from the 35-country pool, re-estimate the pooled ATT, repeat 1,000 times, and ask where the real estimate falls in that placebo distribution — the same design-based logic as the synthetic-control placebos.
+**3. Randomization inference — the strictest test on this page.** Cluster-robust standard errors with nine treated countries lean on asymptotics they may not have earned. So: reassign the nine actual adoption years to nine randomly chosen countries from the 35-country pool, re-estimate the pooled ATT, repeat 1,000 times, and ask where the real estimate falls in that placebo distribution — the same design-based logic as the synthetic-control placebos.
 
 ```js
 const riS = riSummary[0];

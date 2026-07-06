@@ -135,7 +135,7 @@ Inputs.table(summary.map((d) => ({
 
 The three findings of this project now fit one mechanism. Fees gate *contact* with the health system, so removing them should — and did — raise use fastest among the poorest. Under-5 mortality is dominated by illnesses where contact is most of the battle (malaria, pneumonia, diarrhoea), so the [pooled −6% effect](/) lands exactly where the utilization surge says it should. And neonatal mortality, which depends on the *quality* of care once inside the facility, barely moved — free doors don't staff operating theatres. A mortality effect without a utilization footprint would have been suspicious. This one has footprints.
 
-## Honest limits
+## Limits
 
 - **No causal claim.** Five countries, irregular surveys, no counterfactual for any single one. The benchmark comparison shows the gains were unusually fast, not that the policy caused them.
 - **Four adopters are missing** (Uganda, Zambia, Liberia, Burkina Faso) for lack of quintile surveys bracketing their abolition year. Their absence is a data constraint, not a selection choice — the [extraction script](https://github.com/stchakwdev/when-care-is-free/blob/main/pipeline/extract_equity.py) pulls whatever exists.

@@ -25,7 +25,7 @@ const mmrRow = synthSummary.find((d) => d.outcome === "log_mmr");
   <div class="card">
     <h2>Under-5 mortality, pooled effect</h2>
     <span class="big">${pct(u5.estimate).toFixed(1)}%</span>
-    <p>LP-DiD across 9 adopting countries, 95% CI ${pct(u5.ci_low).toFixed(1)}% to ${pct(u5.ci_high).toFixed(1)}%. p = ${u5.pvalue.toFixed(3)} (cluster-robust); p = ${riS.p_one_sided.toFixed(2)} under ${riS.n_permutations.toLocaleString("en-US")}-permutation randomization inference — <a href="/methods#robustness-four-attacks-on-the-headline-number">moderate evidence, honestly graded</a></p>
+    <p>LP-DiD across 9 adopting countries, 95% CI ${pct(u5.ci_low).toFixed(1)}% to ${pct(u5.ci_high).toFixed(1)}%. p = ${u5.pvalue.toFixed(3)} (cluster-robust); p = ${riS.p_one_sided.toFixed(2)} under ${riS.n_permutations.toLocaleString("en-US")}-permutation randomization inference — <a href="/methods#robustness-four-attacks-on-the-headline-number">both tests reported</a></p>
   </div>
   <div class="card">
     <h2>Sierra Leone maternal mortality, 2010–13</h2>
@@ -115,7 +115,7 @@ Plot.plot({
 
 Under-5 mortality falls by about **${Math.abs(pct(u5.estimate)).toFixed(0)}%** on average in the eight years after abolition (95% CI ${pct(u5.ci_low).toFixed(1)}% to ${pct(u5.ci_high).toFixed(1)}%). Neonatal mortality barely moves, which is what you would expect: newborn survival depends on quality of care at delivery, not just whether the door is open. Immunization coverage shifts are positive but imprecise. The mechanism behind this pattern — a surge in service use concentrated among the poorest households — is documented with wealth-quintile survey data on the [Who benefited?](/equity) page.
 
-Four honest observations about this chart:
+Four things to know before believing this chart:
 
 1. **The pre-period is not perfectly flat.** At t−6 the point estimate is positive and marginally significant, meaning treated countries were improving somewhat faster than controls before abolishing fees. Governments do not flip a coin to decide health policy. The effect estimate survives this (the post-period drop is larger and sharper than the pre-trend), but a reader should know it is there. Toggle to the classic TWFE estimator to see why estimator choice matters under staggered adoption.
 2. **Mortality series are modeled.** The UN IGME estimates smooth over sharp year-to-year changes, which biases against finding sudden policy effects. The true short-run effect is likely larger than what smoothed data can show.
@@ -163,7 +163,7 @@ The two outcomes tell different stories, and the difference is the point:
 
 **Maternal mortality diverges.** By 2013, before Ebola struck, actual maternal mortality sat about ${Math.abs(mmrRow.att_pct_2010_2013).toFixed(0)}% below its synthetic counterfactual, and the gap kept widening to ${Math.abs(mmrRow.att_pct_2010_2019).toFixed(0)}% by 2019. Pregnant women were exactly who the FHCI targeted. The gap survives Ebola, which should have pushed it the other way.
 
-**Under-5 mortality shows nothing.** The actual and synthetic paths overlap almost perfectly. An honest analyst reports this: on smoothed mortality data, for a single country, the child-survival effect of the FHCI is not detectable, even though the pooled nine-country design finds one.
+**Under-5 mortality shows nothing.** The actual and synthetic paths overlap almost perfectly. On smoothed mortality data, for a single country, the child-survival effect of the FHCI is simply not detectable — even though the pooled nine-country design finds one. Both facts stay in the writeup.
 
 ### How sure can we be? Placebo tests
 
@@ -194,11 +194,15 @@ Plot.plot({
 })
 ```
 
-For maternal mortality, Sierra Leone's 2010–13 gap is larger than all but two of twenty placebos (rank test p ≈ ${mmrRow.p_att_2010_2013.toFixed(2)}). That is suggestive but short of conventional significance, and the honest conclusion is exactly that. Several placebo countries in southern Africa show large spurious "effects" because their maternal mortality was reshaped by HIV treatment scale-up in the same period, which is a warning against over-reading any single-country result, including this one.
+For maternal mortality, Sierra Leone's 2010–13 gap is larger than all but two of twenty placebos (rank test p ≈ ${mmrRow.p_att_2010_2013.toFixed(2)}). That is suggestive but short of conventional significance, and it stays described that way. Several placebo countries in southern Africa show large spurious "effects" because their maternal mortality was reshaped by HIV treatment scale-up in the same period, which is a warning against over-reading any single-country result, including this one.
 
 ## What I would tell a policymaker
 
 Three sentences, no hedging hidden in footnotes. Removing point-of-care fees for mothers and children is followed by an acceleration in child survival across nine African adopters, on the order of 6% lower under-5 mortality — an effect that is stable across every specification tested, though the strictest statistical test grades the evidence moderate rather than overwhelming. The effect on maternal mortality in the boldest case, Sierra Leone, is large but cannot be statistically separated from regional noise using a single country. Fee removal without funding is where the policy fails; the two clearest divergences (Sierra Leone up, Uganda mixed) track how seriously implementation was resourced.
+
+## Why I built this
+
+User fees are one of health financing's oldest arguments — institutionalized across Africa by the 1987 Bamako Initiative, unwound by the abolition wave this analysis studies. I spent four years at UNICEF producing the maternal and child mortality statistics these models run on, and grew up partly in two of the countries in the treatment table. The debate surfaced constantly in that work; a clean causal answer never did. This is me going back for it.
 
 ## Read next
 
