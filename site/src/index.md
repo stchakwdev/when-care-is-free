@@ -206,7 +206,7 @@ User fees are one of health financing's oldest arguments. The 1987 Bamako Initia
 
 ## Read next
 
-- [Who benefited?](/equity) — the mechanism: wealth-quintile survey data show service use rose fastest in the poorest fifth of households after abolition, with every adopter country-service pair beating the control-country median
+- [Who benefited?](/equity) — the mechanism: wealth-quintile survey data show poorest-quintile service use rising faster after abolition than in the never-treated controls, for every adopter country-service pair
 - [Policy brief](/brief) — the three-minute version for a decision-maker
 - [Explore the data](/explorer) — every indicator, every country, every year used in this analysis
 - [Methods & data quality](/methods) — treatment coding decisions, estimator details, the data error we caught in the World Bank series, and everything that could be wrong with this analysis

@@ -1,7 +1,7 @@
 # Who benefited?
 ## Inside the averages: wealth-quintile evidence on the mechanism
 
-The [headline results](/) say fee abolition was followed by fewer child deaths. This page asks *how* — and for *whom*. User fees are a price at the door, so if removing them saved lives, the footprints should be visible in service **use**, and they should be deepest where fees bit hardest: the poorest households.
+The [headline results](/) say fee abolition was followed by fewer child deaths. This page asks how, and for whom. User fees are a price at the door, so if removing them saved lives, the effect should show up in service use, and it should be largest where fees bit hardest: the poorest households.
 
 DHS and MICS surveys split every indicator by household wealth quintile. The WHO's MNCAH database compiles those splits; a [scripted extraction](https://github.com/stchakwdev/when-care-is-free/blob/main/pipeline/extract_equity.py) pulls three fee-sensitive services for all 44 panel countries:
 
@@ -15,11 +15,17 @@ DHS and MICS surveys split every indicator by household wealth quintile. The WHO
 const traj = FileAttachment("data/equity_trajectories.csv").csv({typed: true});
 const summary = FileAttachment("data/equity_summary.csv").csv({typed: true});
 const bench = FileAttachment("data/equity_benchmark.csv").csv({typed: true});
+const att = FileAttachment("data/att_summary.csv").csv({typed: true});
+```
+
+```js
+const u5 = att.find((d) => d.outcome === "log_u5mr");
+const pct = (x) => Math.expm1(x) * 100;
 ```
 
 ## Sierra Leone: the poorest fifth caught up
 
-Before the 2010 Free Health Care Initiative, a woman from the poorest fifth of Sierra Leonean households had a ${traj.find(d => d.iso3 === "SLE" && d.indicator === "BC_BHF" && d.year === 2008)?.q1?.toFixed(0)}% chance of delivering in a health facility; from the richest fifth, ${traj.find(d => d.iso3 === "SLE" && d.indicator === "BC_BHF" && d.year === 2008)?.q5?.toFixed(0)}%. Watch what happens to the quintile fan after 2010:
+Before the 2010 Free Health Care Initiative, a woman from the poorest fifth of Sierra Leonean households had a ${traj.find(d => d.iso3 === "SLE" && d.indicator === "BC_BHF" && d.year === 2008)?.q1?.toFixed(0)}% chance of delivering in a health facility; from the richest fifth, ${traj.find(d => d.iso3 === "SLE" && d.indicator === "BC_BHF" && d.year === 2008)?.q5?.toFixed(0)}%. The quintile fan after 2010:
 
 ```js
 const sle = traj.filter((d) => d.iso3 === "SLE" && d.indicator === "BC_BHF" && d.year >= 2000);
@@ -48,7 +54,14 @@ Plot.plot({
 })
 ```
 
-Facility delivery in the poorest quintile nearly **tripled within three years** of abolition (16.9% in 2008 → 48.4% in 2013) and reached 78.6% by 2019 — faster growth than any richer quintile, shrinking the rich–poor gap from 22 to 13 percentage points. The same pattern holds for pneumonia care-seeking (39% → 68% in the poorest fifth) and ORS treatment (43% → 87%), where the gap didn't just narrow — it inverted.
+```js
+const sleRow = (ind) => summary.find((d) => d.iso3 === "SLE" && d.indicator === ind);
+const sleBirths = sleRow("BC_BHF");
+const slePneu = sleRow("TECI_PNEUHCP");
+const sleOrs = sleRow("TECI_ORS");
+```
+
+Facility delivery in the poorest quintile nearly **tripled within three years** of abolition (${sleBirths.q1_pre.toFixed(1)}% in ${sleBirths.pre_year} → ${sleBirths.q1_post.toFixed(1)}% in ${sleBirths.post_year}) and reached ${sleBirths.q1_last.toFixed(1)}% by ${sleBirths.last_year}, narrowing the rich–poor gap from ${sleBirths.gap_pre.toFixed(0)} to ${sleBirths.gap_last.toFixed(0)} percentage points. Pneumonia care-seeking in the poorest fifth moved ${slePneu.q1_pre.toFixed(0)}% → ${slePneu.q1_post.toFixed(0)}% and ORS treatment ${sleOrs.q1_pre.toFixed(0)}% → ${sleOrs.q1_post.toFixed(0)}%. For both of those services the gap inverted by the latest survey: the poorest fifth now reports higher coverage than the richest.
 
 ## Five countries, same fingerprint
 
@@ -133,7 +146,7 @@ Inputs.table(summary.map((d) => ({
 
 ## Why this makes the mortality result more believable
 
-The three findings of this project now fit one mechanism. Fees gate *contact* with the health system, so removing them should — and did — raise use fastest among the poorest. Under-5 mortality is dominated by illnesses where contact is most of the battle (malaria, pneumonia, diarrhoea), so the [pooled −6% effect](/) lands exactly where the utilization surge says it should. And neonatal mortality, which depends on the *quality* of care once inside the facility, barely moved — free doors don't staff operating theatres. A mortality effect without a utilization footprint would have been suspicious. This one has footprints.
+The three findings of this project fit one mechanism. Fees gate *contact* with the health system, so removing them should raise use among the poorest, and it did. Under-5 mortality is driven by illnesses where getting to care is most of the problem (malaria, pneumonia, diarrhoea), so the [pooled ${Math.abs(pct(u5.estimate)).toFixed(0)}% effect](/) sits where the utilization evidence predicts. Neonatal mortality, which depends on the *quality* of care once inside the facility, barely moved: free doors don't staff operating theatres. A mortality effect with no matching change in utilization would have been suspicious.
 
 ## Limits
 

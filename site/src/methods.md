@@ -72,19 +72,26 @@ CAR is additionally excluded from the synthetic-control donor pool (2013 civil w
 
 ## Identifying assumptions, stated plainly
 
-**For the DiD:** absent fee abolition, treated countries' outcomes would have moved in parallel with controls (in logs). Testable implication: flat pre-trends. The event study shows a mild positive pre-trend at t−6 — treated countries were improving slightly faster before acting. This is the analysis's main weakness and it is displayed, not buried. The post-treatment break is larger and sharper than the pre-trend, and results are robust to dropping any single cohort, but selection-on-trajectory cannot be fully excluded.
+**For the DiD:** absent fee abolition, treated countries' outcomes would have moved in parallel with controls (in logs). Testable implication: flat pre-trends. The event study shows a mild positive pre-trend at t−6: treated countries were improving slightly faster before acting. This is the analysis's main weakness. The post-treatment break is larger and sharper than the pre-trend, and results hold when any single cohort is dropped, but selection-on-trajectory cannot be fully excluded.
 
 **For the synthetic control:** the donor-weighted combination would have continued to track Sierra Leone absent the FHCI. Threats: Ebola (2014–16) — handled by reporting the pre-Ebola window separately, and noting the shock biases *against* the finding; post-conflict recovery — handled by starting the pre-period at 2002, when the civil war ended; donor-pool contamination by HIV/ART dynamics — visible in the placebo distribution and reflected in the reported p-values.
 
 ## Robustness: four attacks on the headline number
 
-The pooled −6% under-5 mortality effect was attacked four ways. Every number below is computed live from `results/robustness_specs.csv`.
+The pooled ${pctOf(mainSpec.estimate).toFixed(0)}% under-5 mortality effect was attacked four ways. Every number below is computed live from `results/robustness_specs.csv`.
 
 ```js
 const specs = FileAttachment("data/robustness_specs.csv").csv({typed: true});
 const loo = FileAttachment("data/robustness_loo.csv").csv({typed: true});
 const ri = FileAttachment("data/randomization_inference.csv").csv({typed: true});
 const riSummary = FileAttachment("data/randomization_inference_summary.csv").csv({typed: true});
+const synthSummary = FileAttachment("data/synth_summary.csv").csv({typed: true});
+```
+
+```js
+const mainSpec = specs.find((d) => d.spec === "main");
+const mmrRow = synthSummary.find((d) => d.outcome === "log_mmr");
+const pctOf = (x) => Math.expm1(x) * 100;
 ```
 
 ```js
@@ -139,9 +146,9 @@ Plot.plot({
 })
 ```
 
-The observed ATT of ${riS.observed_att.toFixed(4)} sits at the ${(riS.p_one_sided * 100).toFixed(0)}th percentile of the placebo distribution: **one-sided p = ${riS.p_one_sided.toFixed(3)}, two-sided p = ${riS.p_two_sided.toFixed(2)}** — weaker than the model-based p = 0.01. This is worth being blunt about. Under the inference that makes the fewest assumptions, the pooled child-mortality effect sits at the edge of conventional significance, not comfortably past it. Mortality outcomes are strongly serially correlated within countries, so random "policies" produce sizeable spurious effects more often than textbook standard errors imply. The fair summary of the evidence is **moderate, not overwhelming**: a ~6% effect, robust in sign and magnitude across every specification, whose p-value is 0.01 by the conventional test and 0.05 by the strictest one.
+The observed ATT of ${riS.observed_att.toFixed(4)} sits at the ${(riS.p_one_sided * 100).toFixed(0)}th percentile of the placebo distribution: **one-sided p = ${riS.p_one_sided.toFixed(3)}, two-sided p = ${riS.p_two_sided.toFixed(2)}** — weaker than the model-based p = ${mainSpec.pvalue.toFixed(2)}. Under the inference that makes the fewest assumptions, the pooled child-mortality effect sits at the edge of conventional significance, not comfortably past it. Mortality outcomes are strongly serially correlated within countries, so random "policies" produce sizeable spurious effects more often than textbook standard errors imply. The fair summary of the evidence is **moderate, not overwhelming**: a ~${Math.abs(pctOf(mainSpec.estimate)).toFixed(0)}% effect that keeps its sign and magnitude across every specification, whose p-value is ${mainSpec.pvalue.toFixed(2)} by the conventional test and ${riS.p_one_sided.toFixed(2)} by the strictest one.
 
-**4. Which placebo test to believe for Sierra Leone.** Two rank tests are reported in `synth_summary.csv` and they disagree: the classic RMSPE-ratio test gives p ≈ 0.81, while the rank test on the average post-period gap gives p ≈ 0.14. The RMSPE ratio divides by each unit's pre-period fit — and AugSynth fits every unit's pre-period nearly exactly, so the denominators are all near zero and the ratio ranking is dominated by numerical noise rather than effect size. Abadie's ratio test was designed for the classic estimator, where pre-fit differences are informative. For AugSynth the gap-rank test is the meaningful one; both are reported so the reader can check that this choice is disclosed, not buried.
+**4. Which placebo test to believe for Sierra Leone.** Two rank tests are reported in `synth_summary.csv` and they disagree: the classic RMSPE-ratio test gives p ≈ ${mmrRow.placebo_p_value.toFixed(2)}, while the rank test on the average post-period gap gives p ≈ ${mmrRow.p_att_2010_2013.toFixed(2)}. The RMSPE ratio divides by each unit's pre-period fit, and AugSynth fits every unit's pre-period nearly exactly, so the denominators are all near zero and the ratio ranking is dominated by numerical noise rather than effect size. Abadie's ratio test was designed for the classic estimator, where pre-fit differences are informative. For AugSynth the gap-rank test is the meaningful one, and both are reported so the reader can check that choice.
 
 ## What would change my mind
 
