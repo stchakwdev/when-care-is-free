@@ -1,9 +1,9 @@
 # When care is free
 ## Quasi-experimental evidence from Africa's user-fee abolition wave, 2001–2016
 
-For decades, most public clinics in sub-Saharan Africa charged patients at the door. A delivery might cost a week's income; a child's malaria treatment, a day's. Between 2001 and 2016, nine countries decided to stop charging mothers and young children. They did it in different years, for different reasons, which is exactly what makes the question answerable: **did removing fees save lives?**
+For decades, most public clinics in sub-Saharan Africa charged patients a fee before treatment. A delivery might cost one week of income. Treatment for a child with malaria might cost one day of income. Between 2001 and 2016, nine countries stopped these charges for mothers and young children. Each country stopped in a different year and for different reasons. This difference in timing makes the question possible to answer: **did the removal of fees save lives?**
 
-This analysis treats the staggered rollout as a natural experiment. Countries that abolished fees are compared against 26 sub-Saharan countries that kept charging, using two designs that answer the question from different angles: local-projections difference-in-differences (LP-DiD) across all nine adopters, and a synthetic control case study of Sierra Leone's 2010 Free Health Care Initiative.
+This analysis treats the staggered rollout as a natural experiment. It compares the nine countries that abolished fees against 26 sub-Saharan countries that kept them. It uses two designs. The first design is local-projections difference-in-differences (LP-DiD) across all nine adopters. The second design is a synthetic control case study of Sierra Leone's 2010 Free Health Care Initiative.
 
 ```js
 const att = FileAttachment("data/att_summary.csv").csv({typed: true});
@@ -39,7 +39,7 @@ const mmrRow = synthSummary.find((d) => d.outcome === "log_mmr");
   </div>
 </div>
 
-Every number on this page is computed live from the result files produced by the analysis pipeline. Nothing is pasted in, so the story and the statistics cannot drift apart.
+The analysis pipeline writes result files. This page calculates every number from those files when it renders. No person types a number into the text, so the text and the statistics always agree.
 
 ## The policy wave
 
@@ -72,11 +72,11 @@ Plot.plot({
 })
 ```
 
-The staggered timing matters methodologically. A single before/after comparison confounds the policy with everything else happening at the time. Nine different adoption years, each compared against countries that never adopted, is a much harder pattern for a confounder to mimic.
+The staggered timing is important for the method. A single before/after comparison mixes the effect of the policy with the effect of all other events in the same period. This design uses nine different adoption years and compares each one against countries that never adopted. A confounding variable is much less likely to produce that pattern.
 
 ## Nine countries, fewer child deaths
 
-The event study below traces outcomes relative to each country's abolition year. Estimates left of zero test the identifying assumption: if treated and control countries were on different paths *before* the policy, the design is in trouble. Estimates right of zero measure the effect.
+The event study below shows outcomes for each year before and after the year of abolition. Estimates to the left of zero test the identifying assumption. If the treated countries and the control countries changed at different rates before the policy, the design is not valid. Estimates to the right of zero measure the effect of the policy.
 
 ```js
 const outcomeLabels = new Map([
@@ -113,20 +113,20 @@ Plot.plot({
 })
 ```
 
-Under-5 mortality falls by about **${Math.abs(pct(u5.estimate)).toFixed(0)}%** on average in the eight years after abolition (95% CI ${pct(u5.ci_low).toFixed(1)}% to ${pct(u5.ci_high).toFixed(1)}%). Neonatal mortality barely moves, as you would expect: newborn survival depends on quality of care at delivery, not just whether the door is open. Immunization coverage shifts are positive but imprecise. Wealth-quintile survey data on the [Who benefited?](/equity) page document the mechanism behind this pattern: a surge in service use concentrated among the poorest households.
+Under-5 mortality decreases by approximately **${Math.abs(pct(u5.estimate)).toFixed(0)}%** on average in the eight years after abolition (95% CI ${pct(u5.ci_low).toFixed(1)}% to ${pct(u5.ci_high).toFixed(1)}%). Neonatal mortality changes very little. This result is expected, because the survival of a newborn depends on the quality of care at delivery and not only on the removal of the fee. The estimates for immunization coverage are positive but not precise. The [Who benefited?](/equity) page uses wealth-quintile survey data to show the mechanism: use of services increased most in the poorest households.
 
 Four things to know before believing this chart:
 
-1. **The pre-period is not perfectly flat.** At t−6 the point estimate is positive and marginally significant, meaning treated countries were improving somewhat faster than controls before abolishing fees. Governments do not flip a coin to decide health policy. The effect estimate survives this (the post-period drop is larger and sharper than the pre-trend), but a reader should know it is there. Toggle to the classic TWFE estimator to see why estimator choice matters under staggered adoption.
-2. **Mortality series are modeled.** The UN IGME estimates smooth over sharp year-to-year changes, which biases against finding sudden policy effects. The true short-run effect is likely larger than what smoothed data can show.
-3. **This is an intent-to-treat estimate of a policy announcement.** Implementation quality varied enormously; Uganda's abolition was underfunded. The average mixes strong and weak implementations.
-4. **The p-value depends on how strict you are.** Cluster-robust inference gives p = ${u5.pvalue.toFixed(2)}; reassigning the nine adoption years to random countries 1,000 times gives a design-based p = ${riS.p_one_sided.toFixed(2)} (one-sided). The estimate holds its sign and size across every specification tested (timing shifts, broad treatment coding, dropping Ebola countries, dropping any cohort), but under the strictest test it sits at the edge of significance, not comfortably past it. The [methods page](/methods) shows all of it.
+1. **The pre-period trend is not zero.** At t−6 the point estimate is positive and marginally significant. This shows that the treated countries improved more quickly than the control countries before they abolished fees. Governments do not select health policy at random. The effect estimate stays valid, because the decrease after the policy is larger and more rapid than the pre-trend. But the reader must know that the pre-trend is present. Select the classic TWFE estimator to see the effect of estimator choice on staggered adoption.
+2. **UN IGME models the mortality series.** The estimates make large year-to-year changes smooth. This makes it more difficult to find a sudden policy effect. The true short-run effect is probably larger than the smoothed data can show.
+3. **This is an intent-to-treat estimate of a policy announcement.** The quality of implementation was very different between countries. Uganda did not give sufficient funds to its abolition. The average includes strong implementations and weak implementations.
+4. **The p-value changes with the strictness of the test.** Cluster-robust inference gives p = ${u5.pvalue.toFixed(2)}. A second test assigns the nine adoption years to random countries 1,000 times and gives a design-based p = ${riS.p_one_sided.toFixed(2)} (one-sided). The estimate keeps the same sign and approximately the same size in every specification tested: timing shifts, broad treatment coding, removal of Ebola countries, and removal of any cohort. But in the strictest test the estimate is at the limit of significance and not clearly better than the limit. The [methods page](/methods) shows all the tests.
 
 ## Sierra Leone: the sharpest test
 
-In April 2010, Sierra Leone abolished all fees for pregnant women, lactating mothers, and children under five in one stroke: the Free Health Care Initiative. It was the boldest version of the policy anywhere, in one of the world's most dangerous places to give birth.
+In April 2010, Sierra Leone abolished all fees for pregnant women, lactating mothers, and children less than five years old. The policy is called the Free Health Care Initiative. It removed more fees at one time than the equivalent policy in any other country, and it did this in a country with one of the highest maternal mortality rates in the world.
 
-The synthetic control method builds a "counterfactual Sierra Leone" from a weighted mix of countries that kept charging fees, matched on pre-2010 trajectories and structural characteristics. Sierra Leone's mortality was near the top of the donor pool, so the classic estimator struggles to match its level; the ridge-augmented estimator (AugSynth) fits the pre-period almost exactly. Both are shown.
+The synthetic control method builds a "counterfactual Sierra Leone" from a weighted group of countries that kept their fees. It matches these countries on their trajectories before 2010 and on their structural characteristics. The mortality rate of Sierra Leone was near the maximum of the donor pool. Thus the classic estimator cannot match that level accurately. The ridge-augmented estimator (AugSynth) matches the pre-period almost exactly. This page shows both estimators.
 
 ```js
 const synthOutcome = view(Inputs.radio(new Map([["Maternal mortality", "log_mmr"], ["Under-5 mortality", "log_u5mr"]]), {label: "Outcome", value: "log_mmr"}));
@@ -159,15 +159,15 @@ Plot.plot({
 })
 ```
 
-The two outcomes tell different stories:
+The two outcomes give different results:
 
-**Maternal mortality diverges.** Across 2010–13, before Ebola struck, actual maternal mortality averaged about ${Math.abs(mmrRow.att_pct_2010_2013).toFixed(0)}% below its synthetic counterfactual; averaged across the full 2010–19 window the gap is ${Math.abs(mmrRow.att_pct_2010_2019).toFixed(0)}%, and it widens year on year, as the chart above shows. Pregnant women were exactly who the FHCI targeted. The gap survives Ebola, which should have pushed it the other way.
+**Maternal mortality diverges.** Across 2010–13, before the Ebola epidemic started, actual maternal mortality was on average approximately ${Math.abs(mmrRow.att_pct_2010_2013).toFixed(0)}% less than its synthetic counterfactual. Across the full 2010–19 period the average difference is ${Math.abs(mmrRow.att_pct_2010_2019).toFixed(0)}%. The chart above shows that the difference increases each year. Pregnant women were the primary target group of the FHCI. The difference continues through the Ebola epidemic, although the epidemic was expected to decrease it.
 
-**Under-5 mortality shows nothing.** The actual and synthetic paths overlap almost perfectly. On smoothed mortality data, for a single country, the child-survival effect of the FHCI is not detectable, even though the pooled nine-country design finds one.
+**Under-5 mortality shows no effect.** The actual path and the synthetic path are almost the same. For a single country, and with smoothed mortality data, you cannot detect an effect of the FHCI on child survival. The pooled nine-country design does detect such an effect.
 
 ### Placebo tests
 
-Synthetic control has no standard errors, so inference works by pretending each donor country passed the policy and measuring the fake "effects." If Sierra Leone's gap is not unusual against that distribution, the result is noise.
+Synthetic control has no standard errors. Therefore inference applies the policy to each donor country in turn and measures the false "effects." If the difference for Sierra Leone is not unusual in that distribution, the result is random variation.
 
 ```js
 const placYears = Array.from({length: 18}, (_, i) => 2002 + i);
@@ -194,11 +194,11 @@ Plot.plot({
 })
 ```
 
-For maternal mortality, Sierra Leone's 2010–13 gap is larger than all but two of twenty placebos (rank test p ≈ ${mmrRow.p_att_2010_2013.toFixed(2)}). That is suggestive but short of conventional significance. Several placebo countries in southern Africa show large spurious "effects" because their maternal mortality was reshaped by HIV treatment scale-up in the same period, which is a warning against over-reading any single-country result, including this one.
+For maternal mortality, the 2010–13 difference for Sierra Leone is larger than 18 of the 20 placebos (rank test p ≈ ${mmrRow.p_att_2010_2013.toFixed(2)}). This result is suggestive, but it does not reach conventional significance. Several placebo countries in southern Africa show large false "effects". The increase in HIV treatment changed their maternal mortality in the same period. Therefore you must not give too much weight to a result from a single country, and this includes the result for Sierra Leone.
 
 ## What I would tell a policymaker
 
-Removing point-of-care fees for mothers and children is followed by an acceleration in child survival across nine African adopters, on the order of 6% lower under-5 mortality, an effect that is stable across every specification tested, though the strictest statistical test grades the evidence moderate rather than overwhelming. The effect on maternal mortality in the boldest case, Sierra Leone, is large but cannot be statistically separated from regional noise using a single country. Fee removal without funding is where the policy fails; the two clearest divergences (Sierra Leone up, Uganda mixed) track how seriously implementation was resourced.
+After the nine African countries removed point-of-care fees for mothers and children, child survival increased more quickly. Under-5 mortality was approximately 6% lower. This estimate stays the same in every specification tested, but the strictest statistical test grades the evidence as moderate and not as conclusive. In Sierra Leone, the country that removed the most fees, the effect on maternal mortality is large. But you cannot separate that effect from regional variation with data from one country. The policy fails when a country removes the fees but does not supply the necessary funds. The two clearest differences agree with the quantity of resources supplied for implementation: Sierra Leone supplied more, and Uganda gave mixed results.
 
 ## Why I built this
 
