@@ -1,7 +1,7 @@
 # When care is free
 ## Quasi-experimental evidence from Africa's user-fee abolition wave, 2001–2016
 
-For decades, most public clinics in sub-Saharan Africa charged patients at the door. A delivery might cost a week's income; a child's malaria treatment, a day's. Between 2001 and 2016, nine countries decided to stop charging mothers and young children. They did it in different years, for different reasons, which is exactly what makes the question answerable: **did removing fees save lives?**
+For decades, most public clinics in sub-Saharan Africa charged patients at the door. A delivery might cost a week's income; a child's malaria treatment, a day's income. Between 2001 and 2016, nine countries decided to stop charging mothers and young children. They did it in different years, for different reasons, which is exactly what makes the question answerable: **did removing fees save lives?**
 
 This analysis treats the staggered rollout as a natural experiment. Countries that abolished fees are compared against 26 sub-Saharan countries that kept charging, using two designs that answer the question from different angles: local-projections difference-in-differences (LP-DiD) across all nine adopters, and a synthetic control case study of Sierra Leone's 2010 Free Health Care Initiative.
 
@@ -194,11 +194,11 @@ Plot.plot({
 })
 ```
 
-For maternal mortality, Sierra Leone's 2010–13 gap is larger than all but two of twenty placebos (rank test p ≈ ${mmrRow.p_att_2010_2013.toFixed(2)}). That is suggestive but short of conventional significance. Several placebo countries in southern Africa show large spurious "effects" because their maternal mortality was reshaped by HIV treatment scale-up in the same period, which is a warning against over-reading any single-country result, including this one.
+For maternal mortality, Sierra Leone's 2010–13 gap is larger than 18 of the 20 placebos (rank test p ≈ ${mmrRow.p_att_2010_2013.toFixed(2)}). That is suggestive but short of conventional significance. Several placebo countries in southern Africa show large spurious "effects" because HIV treatment scale-up reshaped their maternal mortality in the same period. That is a warning against over-reading any single-country result, including this one.
 
 ## What I would tell a policymaker
 
-Removing point-of-care fees for mothers and children is followed by an acceleration in child survival across nine African adopters, on the order of 6% lower under-5 mortality, an effect that is stable across every specification tested, though the strictest statistical test grades the evidence moderate rather than overwhelming. The effect on maternal mortality in the boldest case, Sierra Leone, is large but cannot be statistically separated from regional noise using a single country. Fee removal without funding is where the policy fails; the two clearest divergences (Sierra Leone up, Uganda mixed) track how seriously implementation was resourced.
+Removing point-of-care fees for mothers and children is followed by an acceleration in child survival across nine African adopters, on the order of ${Math.abs(pct(u5.estimate)).toFixed(0)}% lower under-5 mortality, an effect that is stable across every specification tested, though the strictest statistical test grades the evidence moderate rather than overwhelming. The effect on maternal mortality in the boldest case, Sierra Leone, is large but cannot be statistically separated from regional noise using a single country. Fee removal without funding is where the policy fails; the two clearest divergences (Sierra Leone up, Uganda mixed) track how seriously implementation was resourced.
 
 ## Why I built this
 
