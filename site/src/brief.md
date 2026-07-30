@@ -63,7 +63,7 @@ Different findings in this analysis deserve different weight. Stated plainly:
 | Finding | Confidence | Why |
 |---|---|---|
 | Child mortality fell ~${Math.abs(pct(u5.estimate)).toFixed(0)}% after fee removal | **Moderate** | Nine countries, nine different years; the estimate barely moves under any specification change, and survives removing any single country. The conventional statistical test passes clearly (p = ${u5.pvalue.toFixed(2)}); the strictest one sits at the edge (p = ${riS.p_one_sided.toFixed(2)}) |
-| Sierra Leone's maternal mortality fell ~${Math.abs(mmrRow.att_pct_2010_2013).toFixed(0)}% below its expected path by 2013 | **Suggestive only** | One country; the gap is real but cannot be statistically separated from regional noise (p ≈ ${mmrRow.p_att_2010_2013.toFixed(2)}) |
+| Sierra Leone's maternal mortality ran ~${Math.abs(mmrRow.att_pct_2010_2013).toFixed(0)}% below its expected path on average across 2010–13 | **Suggestive only** | One country; the gap is real but cannot be statistically separated from regional noise (p ≈ ${mmrRow.p_att_2010_2013.toFixed(2)}) |
 | Newborn mortality was unaffected | **Moderate** | Consistent across all nine countries (${pct(nmr.estimate).toFixed(1)}%, statistically indistinguishable from zero) |
 | Underfunded abolition underperforms | **Qualitative** | Pattern across case studies, not a formal test |
 
